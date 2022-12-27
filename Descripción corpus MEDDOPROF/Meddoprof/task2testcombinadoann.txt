@@ -1,0 +1,1085 @@
+T3	SANITARIO	3403	3437	equipo de enfermedades infecciosas	32423911_ES.ann
+T4	SANITARIO	3659	3679	equipo de neumología	32423911_ES.ann
+T6	SANITARIO	608	616	personal	32423911_ES.ann
+T1	PACIENTE	481	490	mensajero	32423911_ES.ann
+T5	PACIENTE	505	549	había realizado tareas de limpieza doméstica	32423911_ES.ann
+T2	SANITARIO	5149	5158	enfermera	32605766_ES.ann
+T3	SANITARIO	5803	5812	enfermera	32605766_ES.ann
+T4	SANITARIO	6235	6244	enfermera	32605766_ES.ann
+T5	SANITARIO	4261	4282	equipo de psiquiatría	32605766_ES.ann
+T6	SANITARIO	4888	4909	equipo de psiquiatría	32605766_ES.ann
+T7	SANITARIO	5303	5324	equipo de psiquiatría	32605766_ES.ann
+T8	SANITARIO	7039	7060	equipo de psiquiatría	32605766_ES.ann
+T9	SANITARIO	2585	2591	médico	32605766_ES.ann
+T10	SANITARIO	2615	2621	médico	32605766_ES.ann
+T11	SANITARIO	2496	2523	médico de atención primaria	32605766_ES.ann
+T12	SANITARIO	2064	2082	médico de cabecera	32605766_ES.ann
+T13	SANITARIO	7308	7326	médico de cabecera	32605766_ES.ann
+T1	SANITARIO	1492	1516	Profesionales sanitarios	32614251_ES.ann
+T1	SANITARIO	332	338	Médico	S0004-06142009000100010-2.ann
+T2	PACIENTE	538	549	ama de casa	S0004-06142009000100010-2.ann
+T1	SANITARIO	1990	1993	Dr.	S0034-98872006000200011-1.ann
+T2	SANITARIO	278	284	Médico	S0034-98872006000200011-1.ann
+T3	PACIENTE	349	359	deportista	S0034-98872006000200011-1.ann
+T1	SANITARIO	340	346	Médico	S0034-98872012001100010-1.ann
+T2	PACIENTE	449	471	deportista profesional	S0034-98872012001100010-1.ann
+T3	PACIENTE	422	446	estudiante universitario	S0034-98872012001100010-1.ann
+T1	SANITARIO	6497	6500	Dr.	S0376-78922009000100011-1.ann
+T2	SANITARIO	294	300	Médico	S0376-78922009000100011-1.ann
+T6	PACIENTE	449	469	trabajador del campo	S0376-78922009000100011-1.ann
+T1	SANITARIO	330	336	Médico	S1130-01082015000700010-1.ann
+T2	PACIENTE	404	424	ingeniero de caminos	S1130-01082015000700010-1.ann
+T1	SANITARIO	19308	19311	Dr.	S1130-52742017000100001-1.ann
+T3	SANITARIO	300	306	Médico	S1130-52742017000100001-1.ann
+T4	OTROS	1628	1649	compañeros de trabajo	S1130-52742017000100001-1.ann
+T6	PACIENTE	8876	8890	ir al gimnasio	S1130-52742017000100001-1.ann
+T7	PACIENTE	481	488	militar	S1130-52742017000100001-1.ann
+T8	FAMILIAR	755	762	militar	S1130-52742017000100001-1.ann
+T13	SANITARIO	14954	14963	terapeuta	S1130-52742017000100001-1.ann
+T14	SANITARIO	16759	16768	terapeuta	S1130-52742017000100001-1.ann
+T5	PACIENTE	9297	9318	acudiendo al gimnasio	S1130-52742017000100001-1.ann
+T1	PACIENTE	3002	3042	Técnico Especialista en Radiodiagnóstico	S1132-62552015000100005-1.ann
+T2	SANITARIO	266	272	Médico	S1132-62552015000100005-1.ann
+T3	PACIENTE	948	967	auxiliar de clínica	S1132-62552015000100005-1.ann
+T6	SANITARIO	1996	2004	oncólogo	S1132-62552015000100005-1.ann
+T8	OTROS	2411	2421	trabajador	S1132-62552015000100005-1.ann
+T9	PACIENTE	352	409	trabajadora del servicio de radiodiagnóstico del hospital	S1132-62552015000100005-1.ann
+T11	PACIENTE	2075	2086	trabajadora	S1132-62552015000100005-1.ann
+T12	PACIENTE	2513	2524	trabajadora	S1132-62552015000100005-1.ann
+T13	PACIENTE	2937	2948	trabajadora	S1132-62552015000100005-1.ann
+T10	PACIENTE	725	736	trabajadora	S1132-62552015000100005-1.ann
+T4	PACIENTE	2090	2117	técnico de radiodiagnóstico	S1132-62552015000100005-1.ann
+T5	PACIENTE	624	664	técnico de radiodiagnóstico del hospital	S1132-62552015000100005-1.ann
+T7	PACIENTE	910	942	trabajó en otro centro sanitario	S1132-62552015000100005-1.ann
+T1	SANITARIO	343	349	Médico	S1134-80462015000200005-1.ann
+T2	PACIENTE	541	548	militar	S1134-80462015000200005-1.ann
+T1	PACIENTE	1336	1347	Ama de casa	caso_clinico_atencion_primaria104.ann
+T3	PACIENTE	1414	1433	cuidadora principal	caso_clinico_atencion_primaria104.ann
+T1	SANITARIO	846	863	Médico de Familia	caso_clinico_atencion_primaria146.ann
+T2	SANITARIO	1398	1415	Médico de Familia	caso_clinico_atencion_primaria146.ann
+T6	SANITARIO	1704	1736	profesionales del ámbito privado	caso_clinico_atencion_primaria146.ann
+T7	SANITARIO	1602	1612	psiquiatra	caso_clinico_atencion_primaria146.ann
+T8	SANITARIO	4122	4132	psiquiatra	caso_clinico_atencion_primaria146.ann
+T9	SANITARIO	4971	4981	psiquiatra	caso_clinico_atencion_primaria146.ann
+T3	PACIENTE	2497	2515	Trabaja en Correos	caso_clinico_atencion_primaria146.ann
+T4	PACIENTE	2529	2562	en estado de incapacidad temporal	caso_clinico_atencion_primaria146.ann
+T1	PACIENTE	2728	2740	baja laboral	caso_clinico_atencion_primaria175.ann
+T3	FAMILIAR	1111	1120	enfermera	caso_clinico_atencion_primaria175.ann
+T4	SANITARIO	3228	3254	enfermera gestora de casos	caso_clinico_atencion_primaria175.ann
+T5	FAMILIAR	3641	3650	enfermera	caso_clinico_atencion_primaria175.ann
+T1	PACIENTE	4186	4210	Estudiante universitaria	caso_clinico_atencion_primaria29.ann
+T3	OTROS	2824	2832	cuidador	caso_clinico_atencion_primaria3.ann
+T4	OTROS	3035	3043	cuidador	caso_clinico_atencion_primaria3.ann
+T5	PACIENTE	1942	1969	cuidadora familiar primaria	caso_clinico_atencion_primaria3.ann
+T6	PACIENTE	1779	1790	desempleada	caso_clinico_atencion_primaria3.ann
+T7	SANITARIO	2987	2996	enfermero	caso_clinico_atencion_primaria3.ann
+T1	FAMILIAR	1813	1825	dependientes	caso_clinico_atencion_primaria3.ann
+T2	PACIENTE	3442	3461	Realiza más deporte	caso_clinico_atencion_primaria3.ann
+T1	PACIENTE	3409	3417	Jubilado	caso_clinico_atencion_primaria33.ann
+T1	PACIENTE	1771	1778	Maestro	caso_clinico_atencion_primaria92.ann
+T3	PACIENTE	1779	1801	estudiando oposiciones	caso_clinico_atencion_primaria92.ann
+T2	PACIENTE	1804	1821	realizando máster	caso_clinico_atencion_primaria92.ann
+T1	SANITARIO	408	435	médico de atención primaria	caso_clinico_dermatologia123.ann
+T2	PACIENTE	502	510	profesor	caso_clinico_dermatologia123.ann
+T1	PACIENTE	220	238	empleada en un bar	caso_clinico_dermatologia137.ann
+T3	SANITARIO	662	668	médico	caso_clinico_dermatologia137.ann
+T1	PACIENTE	313	321	cocinera	caso_clinico_dermatologia160.ann
+T2	PACIENTE	359	367	jubilada	caso_clinico_dermatologia160.ann
+T1	SANITARIO	668	695	médico de atención primaria	caso_clinico_dermatologia197.ann
+T1	SANITARIO	251	278	Médico de Atención Primaria	caso_clinico_dermatologia242.ann
+T2	PACIENTE	352	362	limpiadora	caso_clinico_dermatologia390.ann
+T1	PACIENTE	21	48	trabajador en la hostelería	caso_clinico_dermatologia447.ann
+T2	PACIENTE	362	373	esteticista	caso_clinico_dermatologia456.ann
+T1	PACIENTE	27	37	limpiadora	caso_clinico_dermatologia469.ann
+T1	SANITARIO	566	593	Médico de Atención Primaria	caso_clinico_dermatologia618.ann
+T2	SANITARIO	747	755	oncólogo	caso_clinico_endocrinologia149.ann
+T2	SANITARIO	798	816	médico de cabecera	caso_clinico_endocrinologia202.ann
+T1	SANITARIO	62	65	MAP	caso_clinico_medicina_interna1053.ann
+T1	PACIENTE	131	139	Jubilada	caso_clinico_medicina_interna1242.ann
+T2	SANITARIO	8872	8880	cirujano	caso_clinico_medicina_interna1242.ann
+T4	SANITARIO	7860	7886	médico de Medicina Interna	caso_clinico_medicina_interna1242.ann
+T5	PACIENTE	141	173	ex trabajadora en fábrica textil	caso_clinico_medicina_interna1242.ann
+T2	PACIENTE	164	196	ex trabajador en minas de pirita	caso_clinico_medicina_interna1270.ann
+T1	PACIENTE	66	77	Constructor	caso_clinico_medicina_interna1274.ann
+T1	SANITARIO	135	162	médico de atención primaria	caso_clinico_medicina_interna1352.ann
+T1	PACIENTE	21	31	agricultor	caso_clinico_medicina_interna1373.ann
+T2	PACIENTE	32	40	jubilado	caso_clinico_medicina_interna1373.ann
+T2	SANITARIO	518	530	especialista	caso_clinico_medicina_interna1482.ann
+T1	PACIENTE	329	337	Jubilado	caso_clinico_medicina_interna1486.ann
+T2	SANITARIO	1434	1444	hematólogo	caso_clinico_medicina_interna1635.ann
+T3	SANITARIO	1492	1498	médico	caso_clinico_medicina_interna1635.ann
+T4	SANITARIO	427	454	médico de atención primaria	caso_clinico_medicina_interna1635.ann
+T1	PACIENTE	30	37	cartera	caso_clinico_medicina_interna1700.ann
+T2	SANITARIO	985	988	MAP	caso_clinico_medicina_interna22.ann
+T3	SANITARIO	5610	5613	MAP	caso_clinico_medicina_interna22.ann
+T4	PACIENTE	525	547	Trabaja en una oficina	caso_clinico_medicina_interna22.ann
+T1	PACIENTE	61	85	Trabaja en la jardinería	caso_clinico_medicina_interna240.ann
+T1	PACIENTE	73	82	Enfermera	caso_clinico_medicina_interna407.ann
+T1	SANITARIO	1804	1813	nefrólogo	caso_clinico_medicina_interna475.ann
+T1	PACIENTE	104	112	panadero	caso_clinico_medicina_interna48.ann
+T1	SANITARIO	295	308	especialistas	caso_clinico_medicina_interna622.ann
+T2	PACIENTE	38	46	jubilada	caso_clinico_medicina_interna622.ann
+T3	PACIENTE	28	37	profesora	caso_clinico_medicina_interna622.ann
+T1	PACIENTE	882	892	estudiante	caso_clinico_medicina_interna64.ann
+T2	SANITARIO	280	307	médico de atención primaria	caso_clinico_medicina_interna64.ann
+T1	PACIENTE	53	61	ganadero	caso_clinico_medicina_interna644.ann
+T1	SANITARIO	1906	1914	logopeda	caso_clinico_medicina_interna882.ann
+T1	PACIENTE	97	115	mientras trabajaba	caso_clinico_medicina_interna888.ann
+T1	SANITARIO	1483	1492	cirujanos	caso_clinico_medicina_interna996.ann
+T2	SANITARIO	1495	1503	urólogos	caso_clinico_medicina_interna996.ann
+T2	PACIENTE	18	46	obrero de construcción civil	caso_clinico_medtropical28.ann
+T2	PACIENTE	103	113	estudiante	caso_clinico_medtropical72.ann
+T1	PACIENTE	79	89	en prisión	caso_clinico_medtropical97.ann
+T2	PACIENTE	234	244	en prisión	caso_clinico_medtropical97.ann
+T3	PACIENTE	619	629	en prisión	caso_clinico_medtropical97.ann
+T1	PACIENTE	990	1018	Trabajaba en la construcción	caso_clinico_neurologia101.ann
+T1	PACIENTE	4805	4820	juega al fútbol	caso_clinico_neurologia115.ann
+T1	OTROS	433	447	fisioterapeuta	caso_clinico_neurologia195.ann
+T3	SANITARIO	1349	1358	neurólogo	caso_clinico_neurologia286.ann
+T4	PACIENTE	430	454	conserje en un instituto	caso_clinico_neurologia286.ann
+T3	PACIENTE	37	44	militar	caso_clinico_neurologia347.ann
+T1	PACIENTE	58	66	retirado	caso_clinico_neurologia347.ann
+T1	PACIENTE	809	817	camarero	caso_clinico_neurologia61.ann
+T2	PACIENTE	779	786	en paro	caso_clinico_neurologia61.ann
+T1	SANITARIO	161	188	médico de Atención Primaria	caso_clinico_neurologia83.ann
+T1	OTROS	985	989	juez	caso_clinico_psiquiatria14.ann
+T2	OTROS	1103	1107	juez	caso_clinico_psiquiatria14.ann
+T3	OTROS	1115	1134	personal del centro	caso_clinico_psiquiatria14.ann
+T4	SANITARIO	2439	2449	psiquiatra	caso_clinico_psiquiatria14.ann
+T5	OTROS	2356	2365	psicólogo	caso_clinico_psiquiatria14.ann
+T6	PACIENTE	3157	3176	simultanea trabajos	caso_clinico_psiquiatria14.ann
+T7	PACIENTE	4112	4136	Practica artes marciales	caso_clinico_psiquiatria14.ann
+T8	PACIENTE	4139	4175	dedica muchas horas a ir al gimnasio	caso_clinico_psiquiatria14.ann
+T9	OTROS	4730	4738	maestros	caso_clinico_psiquiatria14.ann
+T10	OTROS	6206	6215	terapeuta	caso_clinico_psiquiatria14.ann
+T11	OTROS	6262	6271	psicóloga	caso_clinico_psiquiatria14.ann
+T12	OTROS	8058	8067	terapeuta	caso_clinico_psiquiatria14.ann
+T13	OTROS	8713	8720	policía	caso_clinico_psiquiatria14.ann
+T14	OTROS	9230	9240	terapeutas	caso_clinico_psiquiatria14.ann
+T15	OTROS	9373	9382	psicóloga	caso_clinico_psiquiatria14.ann
+T16	PACIENTE	10152	10168	vigilante jurado	caso_clinico_psiquiatria14.ann
+T17	PACIENTE	2712	2736	cursa 1o de Bachillerato	caso_clinico_psiquiatria14.ann
+T18	PACIENTE	722	732	en prisión	caso_clinico_psiquiatria14.ann
+T19	PACIENTE	5047	5067	cursa 3o de primaria	caso_clinico_psiquiatria14.ann
+T20	PACIENTE	2787	2814	ha repetido 2 cursos de ESO	caso_clinico_psiquiatria14.ann
+T2	PACIENTE	16	38	Profesor de secundaria	caso_clinico_psiquiatria154.ann
+T3	PACIENTE	1273	1295	Profesor de secundaria	caso_clinico_psiquiatria154.ann
+T5	SANITARIO	63	81	médico de cabecera	caso_clinico_psiquiatria159.ann
+T1	OTROS	1006	1019	compañeros/as	caso_clinico_psiquiatria163.ann
+T2	OTROS	1190	1200	compañeros	caso_clinico_psiquiatria163.ann
+T3	OTROS	1247	1257	compañeros	caso_clinico_psiquiatria163.ann
+T6	OTROS	985	992	maestra	caso_clinico_psiquiatria163.ann
+T7	OTROS	1043	1050	maestra	caso_clinico_psiquiatria163.ann
+T8	SANITARIO	79	87	pediatra	caso_clinico_psiquiatria163.ann
+T9	SANITARIO	62	71	psicólogo	caso_clinico_psiquiatria163.ann
+T4	PACIENTE	739	752	ir al colegio	caso_clinico_psiquiatria163.ann
+T1	PACIENTE	27	75	dependiente en una tienda de productos de 1 euro	caso_clinico_psiquiatria167.ann
+T2	SANITARIO	138	147	neurólogo	caso_clinico_psiquiatria167.ann
+T3	PACIENTE	1006	1013	de baja	caso_clinico_psiquiatria167.ann
+T4	PACIENTE	1726	1733	de baja	caso_clinico_psiquiatria167.ann
+T5	PACIENTE	1537	1550	tenía trabajo	caso_clinico_psiquiatria167.ann
+T6	OTROS	1593	1627	dueño de la tienda donde trabajaba	caso_clinico_psiquiatria167.ann
+T1	OTROS	507	523	Asistente Social	caso_clinico_psiquiatria175.ann
+T2	OTROS	2928	2938	compañeros	caso_clinico_psiquiatria175.ann
+T3	FAMILIAR	1283	1295	investigador	caso_clinico_psiquiatria175.ann
+T4	PACIENTE	1708	1745	bibliotecario en el Archivo Histórico	caso_clinico_psiquiatria175.ann
+T5	PACIENTE	3349	3376	había abandonado su trabajo	caso_clinico_psiquiatria175.ann
+T6	PACIENTE	3369	3390	trabajo en el Archivo	caso_clinico_psiquiatria175.ann
+T2	SANITARIO	420	427	médicos	caso_clinico_psiquiatria195.ann
+T3	SANITARIO	1035	1043	pediatra	caso_clinico_psiquiatria195.ann
+T1	PACIENTE	2486	2526	Llegó a colaborar en el trabajo familiar	caso_clinico_psiquiatria204.ann
+T2	OTROS	4318	4341	monitores ocupacionales	caso_clinico_psiquiatria204.ann
+T3	PACIENTE	2277	2293	graduado escolar	caso_clinico_psiquiatria204.ann
+T2	OTROS	709	718	compañero	caso_clinico_psiquiatria212.ann
+T4	SANITARIO	1593	1603	psiquiatra	caso_clinico_psiquiatria213.ann
+T1	OTROS	3695	3699	Juez	caso_clinico_psiquiatria213.ann
+T2	PACIENTE	278	296	estudios primarios	caso_clinico_psiquiatria213.ann
+T1	PACIENTE	80	116	empleo estable de alta cualificación	caso_clinico_psiquiatria216.ann
+T2	OTROS	191	200	psicóloga	caso_clinico_psiquiatria22.ann
+T1	PACIENTE	3054	3072	practicaba deporte	caso_clinico_psiquiatria22.ann
+T3	OTROS	3635	3645	compañeros	caso_clinico_psiquiatria22.ann
+T4	PACIENTE	3670	3687	cambios de empleo	caso_clinico_psiquiatria22.ann
+T1	PACIENTE	604	611	Despido	caso_clinico_psiquiatria220.ann
+T2	PACIENTE	290	297	En paro	caso_clinico_psiquiatria220.ann
+T4	FAMILIAR	337	346	jubilados	caso_clinico_psiquiatria220.ann
+T6	PACIENTE	299	328	Trabajo de baja cualificación	caso_clinico_psiquiatria220.ann
+T7	PACIENTE	668	679	sin trabajo	caso_clinico_psiquiatria220.ann
+T3	OTROS	1082	1088	fiscal	caso_clinico_psiquiatria220.ann
+T1	OTROS	521	543	cuidadores principales	caso_clinico_psiquiatria232.ann
+T3	SANITARIO	2657	2666	terapeuta	caso_clinico_psiquiatria301.ann
+T4	SANITARIO	4245	4254	terapeuta	caso_clinico_psiquiatria301.ann
+T5	SANITARIO	5284	5293	terapeuta	caso_clinico_psiquiatria301.ann
+T6	PACIENTE	299	336	se hace cargo de las tareas del hogar	caso_clinico_psiquiatria301.ann
+T1	SANITARIO	4152	4165	profesionales	caso_clinico_psiquiatria301.ann
+T2	SANITARIO	1886	1892	equipo	caso_clinico_psiquiatria301.ann
+T1	FAMILIAR	2193	2212	activo laboralmente	caso_clinico_psiquiatria304.ann
+T2	PACIENTE	5704	5716	baja laboral	caso_clinico_psiquiatria304.ann
+T3	PACIENTE	2734	2741	en paro	caso_clinico_psiquiatria304.ann
+T5	FAMILIAR	2719	2727	jubilado	caso_clinico_psiquiatria304.ann
+T7	SANITARIO	3679	3706	médico de atención primaria	caso_clinico_psiquiatria304.ann
+T8	SANITARIO	4477	4504	médico de atención primaria	caso_clinico_psiquiatria304.ann
+T9	SANITARIO	4308	4326	médico de cabecera	caso_clinico_psiquiatria304.ann
+T10	SANITARIO	4988	5006	médico de cabecera	caso_clinico_psiquiatria304.ann
+T11	SANITARIO	5598	5616	médico de cabecera	caso_clinico_psiquiatria304.ann
+T13	SANITARIO	6719	6726	médicos	caso_clinico_psiquiatria304.ann
+T14	SANITARIO	3710	3719	neurólogo	caso_clinico_psiquiatria304.ann
+T15	FAMILIAR	2283	2313	operario en una fábrica textil	caso_clinico_psiquiatria304.ann
+T16	PACIENTE	653	669	tareas del campo	caso_clinico_psiquiatria304.ann
+T17	PACIENTE	723	751	tareas de limpieza doméstica	caso_clinico_psiquiatria304.ann
+T4	FAMILIAR	2218	2248	períodos intermitentes de paro	caso_clinico_psiquiatria304.ann
+T18	PACIENTE	2686	2707	sin actividad laboral	caso_clinico_psiquiatria304.ann
+T19	FAMILIAR	2686	2707	sin actividad laboral	caso_clinico_psiquiatria304.ann
+T20	FAMILIAR	2466	2485	inactividad laboral	caso_clinico_psiquiatria304.ann
+T21	PACIENTE	2511	2544	reanudaba actividades remuneradas	caso_clinico_psiquiatria304.ann
+T12	OTROS	4114	4125	naturalista	caso_clinico_psiquiatria304.ann
+T22	PACIENTE	4582	4597	bajas laborales	caso_clinico_psiquiatria304.ann
+T23	OTROS	7114	7123	Naturista	caso_clinico_psiquiatria304.ann
+T6	PACIENTE	576	612	se incorpora pronto al mundo laboral	caso_clinico_psiquiatria304.ann
+T2	SANITARIO	3210	3232	personal de enfermería	caso_clinico_psiquiatria305.ann
+T2	SANITARIO	4626	4658	facultativo especialista de área	caso_clinico_psiquiatria308.ann
+T3	SANITARIO	3191	3208	médico de familia	caso_clinico_psiquiatria308.ann
+T4	PACIENTE	353	379	encargada de mantenimiento	caso_clinico_psiquiatria308.ann
+T5	PACIENTE	2401	2419	Estudios primarios	caso_clinico_psiquiatria308.ann
+T6	PACIENTE	2801	2817	no tenía trabajo	caso_clinico_psiquiatria308.ann
+T7	PACIENTE	2998	3045	se incorporó a la vida laboral en la hostelería	caso_clinico_psiquiatria308.ann
+T8	PACIENTE	3048	3066	servicio doméstico	caso_clinico_psiquiatria308.ann
+T1	SANITARIO	4694	4703	residente	caso_clinico_psiquiatria308.ann
+T1	PACIENTE	1467	1488	abandona los estudios	caso_clinico_psiquiatria32.ann
+T2	PACIENTE	1596	1625	Estuvo repartiendo publicidad	caso_clinico_psiquiatria32.ann
+T3	OTROS	2424	2444	agentes de autoridad	caso_clinico_psiquiatria32.ann
+T4	OTROS	2475	2497	agente de la autoridad	caso_clinico_psiquiatria32.ann
+T5	PACIENTE	1496	1516	cursaba 3o de la ESO	caso_clinico_psiquiatria32.ann
+T6	PACIENTE	1304	1359	Repitió 3o de la Educación Secundaria Obligatoria (ESO)	caso_clinico_psiquiatria32.ann
+T7	PACIENTE	1530	1562	estudia en la escuela de adultos	caso_clinico_psiquiatria32.ann
+T8	PACIENTE	1568	1594	realizar 3o y 4o de la ESO	caso_clinico_psiquiatria32.ann
+T1	PACIENTE	157	184	incapacidad para el trabajo	caso_clinico_psiquiatria324.ann
+T1	OTROS	153	169	policía nacional	caso_clinico_psiquiatria359.ann
+T2	OTROS	523	530	gueisha	caso_clinico_psiquiatria359.ann
+T3	PACIENTE	594	623	estudia Formación Profesional	caso_clinico_psiquiatria366.ann
+T5	SANITARIO	7706	7716	psiquiatra	caso_clinico_psiquiatria366.ann
+T1	PACIENTE	668	729	le gusta componer canciones, grabar y editar videos musicales	caso_clinico_psiquiatria366.ann
+T2	PACIENTE	2290	2305	cantante de rap	caso_clinico_psiquiatria366.ann
+T1	SANITARIO	520	558	Equipo de Salud Mental Infanto-Juvenil	caso_clinico_psiquiatria371.ann
+T5	FAMILIAR	2932	2949	estaba trabajando	caso_clinico_psiquiatria371.ann
+T8	SANITARIO	184	211	médico de atención primaria	caso_clinico_psiquiatria371.ann
+T9	SANITARIO	8834	8845	profesional	caso_clinico_psiquiatria371.ann
+T10	SANITARIO	11148	11157	psicóloga	caso_clinico_psiquiatria371.ann
+T11	SANITARIO	569	579	psiquiatra	caso_clinico_psiquiatria371.ann
+T12	SANITARIO	11168	11178	psiquiatra	caso_clinico_psiquiatria371.ann
+T2	FAMILIAR	2522	2544	trabaja en una joyería	caso_clinico_psiquiatria371.ann
+T7	FAMILIAR	2987	3009	ha cambiado de trabajo	caso_clinico_psiquiatria371.ann
+T6	OTROS	5881	5899	amigas del colegio	caso_clinico_psiquiatria371.ann
+T13	SANITARIO	7951	7971	experto en nutrición	caso_clinico_psiquiatria371.ann
+T3	FAMILIAR	2496	2519	hizo estudios primarios	caso_clinico_psiquiatria371.ann
+T4	FAMILIAR	2906	2929	hizo estudios primarios	caso_clinico_psiquiatria371.ann
+T14	FAMILIAR	3296	3314	estudia económicas	caso_clinico_psiquiatria371.ann
+T1	PACIENTE	894	907	en el colegio	caso_clinico_psiquiatria376.ann
+T2	PACIENTE	942	962	Cursa 4o de Primaria	caso_clinico_psiquiatria376.ann
+T1	OTROS	1239	1247	Cuidador	caso_clinico_psiquiatria382.ann
+T2	OTROS	1519	1527	Cuidador	caso_clinico_psiquiatria382.ann
+T3	PACIENTE	644	663	cuidado de su madre	caso_clinico_psiquiatria382.ann
+T4	PACIENTE	2769	2788	cuidado de su madre	caso_clinico_psiquiatria382.ann
+T5	OTROS	1015	1023	cuidador	caso_clinico_psiquiatria382.ann
+T6	OTROS	1651	1659	cuidador	caso_clinico_psiquiatria382.ann
+T7	OTROS	2269	2277	cuidador	caso_clinico_psiquiatria382.ann
+T8	OTROS	3733	3742	cuidadora	caso_clinico_psiquiatria382.ann
+T9	PACIENTE	162	181	cuidadora principal	caso_clinico_psiquiatria382.ann
+T10	OTROS	1266	1276	cuidadores	caso_clinico_psiquiatria382.ann
+T11	OTROS	1417	1427	cuidadores	caso_clinico_psiquiatria382.ann
+T12	OTROS	1445	1455	cuidadores	caso_clinico_psiquiatria382.ann
+T13	OTROS	1780	1790	cuidadores	caso_clinico_psiquiatria382.ann
+T1	SANITARIO	158	190	profesionales de la salud mental	caso_clinico_psiquiatria39.ann
+T2	SANITARIO	73	95	equipo de salud mental	caso_clinico_psiquiatria39.ann
+T3	PACIENTE	488	522	encargada en una tienda de muebles	caso_clinico_psiquiatria39.ann
+T4	PACIENTE	464	482	Tenía trabajo fijo	caso_clinico_psiquiatria39.ann
+T5	PACIENTE	3746	3756	excedencia	caso_clinico_psiquiatria39.ann
+T1	SANITARIO	4751	4804	profesional correspondiente de la red de salud mental	caso_clinico_psiquiatria390.ann
+T2	SANITARIO	2685	2743	profesionales referentes del servicio de drogodependencias	caso_clinico_psiquiatria390.ann
+T3	SANITARIO	2795	2805	psiquiatra	caso_clinico_psiquiatria390.ann
+T4	SANITARIO	4819	4829	psiquiatra	caso_clinico_psiquiatria390.ann
+T5	SANITARIO	27	80	terapeuta referente del servicio de drogodependencias	caso_clinico_psiquiatria390.ann
+T6	SANITARIO	4846	4886	terapeuta referente de drogodependencias	caso_clinico_psiquiatria390.ann
+T7	SANITARIO	6134	6177	terapeuta del servicio de drogodependencias	caso_clinico_psiquiatria390.ann
+T8	OTROS	6110	6128	trabajadora social	caso_clinico_psiquiatria390.ann
+T9	OTROS	6096	6105	directora	caso_clinico_psiquiatria390.ann
+T1	PACIENTE	722	734	en desempleo	caso_clinico_psiquiatria398.ann
+T2	PACIENTE	838	855	pérdida de empleo	caso_clinico_psiquiatria398.ann
+T3	OTROS	94	119	Fuerzas del Orden Público	caso_clinico_psiquiatria398.ann
+T1	SANITARIO	1510	1513	MAP	caso_clinico_psiquiatria400.ann
+T2	SANITARIO	1717	1720	MAP	caso_clinico_psiquiatria400.ann
+T3	PACIENTE	2197	2221	abandono de los estudios	caso_clinico_psiquiatria400.ann
+T5	OTROS	506	527	compañeros de escuela	caso_clinico_psiquiatria400.ann
+T11	SANITARIO	2909	2919	psiquiatra	caso_clinico_psiquiatria400.ann
+T12	PACIENTE	2725	2752	decide retomar los estudios	caso_clinico_psiquiatria400.ann
+T4	OTROS	492	503	profesorado	caso_clinico_psiquiatria400.ann
+T6	PACIENTE	834	867	Formación académica: Bachillerato	caso_clinico_psiquiatria400.ann
+T7	PACIENTE	811	826	repite un curso	caso_clinico_psiquiatria400.ann
+T8	PACIENTE	406	426	Se cambió de colegio	caso_clinico_psiquiatria400.ann
+T1	PACIENTE	1878	1892	jefe de Estado	caso_clinico_psiquiatria401.ann
+T1	SANITARIO	91	113	Equipo de Salud Mental	caso_clinico_psiquiatria412.ann
+T5	OTROS	3652	3664	tutora legal	caso_clinico_psiquiatria412.ann
+T6	SANITARIO	47	56	terapeuta	caso_clinico_psiquiatria412.ann
+T2	OTROS	2776	2795	compañeros de clase	caso_clinico_psiquiatria417.ann
+T3	PACIENTE	182	192	estudiante	caso_clinico_psiquiatria417.ann
+T1	PACIENTE	737	767	Inicia estudios universitarios	caso_clinico_psiquiatria417.ann
+T4	PACIENTE	3824	3844	Ha iniciado un curso	caso_clinico_psiquiatria417.ann
+T5	PACIENTE	703	735	Repitió 4o ESO y 2o de Bachiller	caso_clinico_psiquiatria417.ann
+T1	PACIENTE	293	307	administrativo	caso_clinico_psiquiatria418.ann
+T5	SANITARIO	1560	1570	psiquiatra	caso_clinico_psiquiatria418.ann
+T6	PACIENTE	236	267	Trabaja en empresa de conocidos	caso_clinico_psiquiatria418.ann
+T2	FAMILIAR	362	370	maestros	caso_clinico_psiquiatria428.ann
+T3	SANITARIO	4644	4654	psiquiatra	caso_clinico_psiquiatria428.ann
+T4	PACIENTE	706	720	6o de primaria	caso_clinico_psiquiatria428.ann
+T1	PACIENTE	1019	1036	inicia la carrera	caso_clinico_psiquiatria428.ann
+T5	OTROS	2576	2597	decano de la facultad	caso_clinico_psiquiatria428.ann
+T6	OTROS	5560	5566	decano	caso_clinico_psiquiatria428.ann
+T2	SANITARIO	175	188	especialistas	caso_clinico_psiquiatria433.ann
+T3	OTROS	1263	1267	jefe	caso_clinico_psiquiatria433.ann
+T4	OTROS	2111	2115	jefe	caso_clinico_psiquiatria433.ann
+T5	PACIENTE	34	40	médico	caso_clinico_psiquiatria433.ann
+T8	SANITARIO	190	201	psiquiatras	caso_clinico_psiquiatria433.ann
+T1	SANITARIO	203	213	neurólogos	caso_clinico_psiquiatria433.ann
+T9	SANITARIO	215	234	psicólogos clínicos	caso_clinico_psiquiatria433.ann
+T6	OTROS	687	712	coordinador en el trabajo	caso_clinico_psiquiatria433.ann
+T7	OTROS	5895	5904	vagabundo	caso_clinico_psiquiatria433.ann
+T1	FAMILIAR	502	512	arquitecto	caso_clinico_psiquiatria438.ann
+T2	PACIENTE	716	746	conductor de autobuses urbanos	caso_clinico_psiquiatria438.ann
+T4	SANITARIO	3003	3021	personal sanitario	caso_clinico_psiquiatria438.ann
+T5	SANITARIO	3907	3925	personal sanitario	caso_clinico_psiquiatria438.ann
+T6	OTROS	896	906	profesores	caso_clinico_psiquiatria438.ann
+T7	FAMILIAR	536	545	ingeniera	caso_clinico_psiquiatria438.ann
+T8	PACIENTE	573	621	habiendo trabajado posteriormente en el ejército	caso_clinico_psiquiatria438.ann
+T9	PACIENTE	623	640	en la agricultura	caso_clinico_psiquiatria438.ann
+T10	PACIENTE	642	667	en transporte de mudanzas	caso_clinico_psiquiatria438.ann
+T3	OTROS	2844	2856	funcionarios	caso_clinico_psiquiatria438.ann
+T11	OTROS	3399	3408	cocineros	caso_clinico_psiquiatria438.ann
+T12	PACIENTE	548	571	Estudió hasta 3o de BUP	caso_clinico_psiquiatria438.ann
+T13	FAMILIAR	328	340	pensionistas	caso_clinico_psiquiatria438.ann
+T3	SANITARIO	632	642	psiquiatra	caso_clinico_psiquiatria440.ann
+T2	PACIENTE	323	346	Estudió hasta 4o de ESO	caso_clinico_psiquiatria453.ann
+T1	PACIENTE	301	321	incapacitación legal	caso_clinico_psiquiatria453.ann
+T3	PACIENTE	279	296	66% de minusvalía	caso_clinico_psiquiatria453.ann
+T1	OTROS	2223	2233	compañeros	caso_clinico_psiquiatria471.ann
+T2	OTROS	2423	2433	compañeros	caso_clinico_psiquiatria471.ann
+T3	PACIENTE	203	218	de baja laboral	caso_clinico_psiquiatria471.ann
+T6	SANITARIO	2017	2023	médico	caso_clinico_psiquiatria471.ann
+T7	SANITARIO	8238	8248	psiquiatra	caso_clinico_psiquiatria471.ann
+T8	PACIENTE	151	169	trabaja en Correos	caso_clinico_psiquiatria471.ann
+T4	PACIENTE	2026	2055	reinició su actividad laboral	caso_clinico_psiquiatria471.ann
+T5	PACIENTE	2098	2128	actividades usuales en Correos	caso_clinico_psiquiatria471.ann
+T9	PACIENTE	2530	2543	pidió la baja	caso_clinico_psiquiatria471.ann
+T2	SANITARIO	13168	13179	dermatólogo	caso_clinico_psiquiatria474.ann
+T4	SANITARIO	3471	3477	equipo	caso_clinico_psiquiatria474.ann
+T1	PACIENTE	347	374	No realiza actividad alguna	caso_clinico_psiquiatria474.ann
+T5	PACIENTE	376	409	Estudios secundarios sin concluir	caso_clinico_psiquiatria474.ann
+T3	PACIENTE	606	638	abandonar la práctica del fútbol	caso_clinico_psiquiatria474.ann
+T1	PACIENTE	34	62	en condiciones de indigencia	caso_clinico_psiquiatria477.ann
+T4	PACIENTE	609	630	no ha trabajado nunca	caso_clinico_psiquiatria477.ann
+T5	PACIENTE	579	607	No finalizó estudios básicos	caso_clinico_psiquiatria477.ann
+T2	PACIENTE	4717	4755	está finalizando estudios obligatorios	caso_clinico_psiquiatria477.ann
+T3	PACIENTE	4758	4788	acude a actividades deportivas	caso_clinico_psiquiatria477.ann
+T6	PACIENTE	531	551	viviendo en la calle	caso_clinico_psiquiatria477.ann
+T1	SANITARIO	1801	1839	enfermera especialista en salud mental	caso_clinico_psiquiatria48.ann
+T3	SANITARIO	1853	1866	profesionales	caso_clinico_psiquiatria48.ann
+T4	SANITARIO	1736	1746	psiquiatra	caso_clinico_psiquiatria48.ann
+T5	SANITARIO	796	807	psiquiatras	caso_clinico_psiquiatria48.ann
+T6	PACIENTE	454	489	Trabaja en el sector de la limpieza	caso_clinico_psiquiatria48.ann
+T7	SANITARIO	1749	1758	psicólogo	caso_clinico_psiquiatria48.ann
+T3	PACIENTE	46	57	pensionista	caso_clinico_psiquiatria483.ann
+T1	FAMILIAR	182	192	agricultor	caso_clinico_psiquiatria490.ann
+T2	FAMILIAR	214	225	ama de casa	caso_clinico_psiquiatria490.ann
+T5	PACIENTE	227	261	Recibe una pensión no contributiva	caso_clinico_psiquiatria490.ann
+T3	PACIENTE	277	300	Incapacitado Civilmente	caso_clinico_psiquiatria490.ann
+T1	PACIENTE	877	885	Jubilado	caso_clinico_psiquiatria493.ann
+T5	SANITARIO	1629	1639	psiquiatra	caso_clinico_psiquiatria493.ann
+T2	PACIENTE	1180	1207	trabajando en el extranjero	caso_clinico_psiquiatria493.ann
+T1	PACIENTE	69	86	chófer de ómnibus	caso_clinico_psiquiatria5.ann
+T2	SANITARIO	512	523	dermatólogo	caso_clinico_psiquiatria5.ann
+T3	SANITARIO	2959	2967	personal	caso_clinico_psiquiatria509.ann
+T4	SANITARIO	2279	2300	personal de la Unidad	caso_clinico_psiquiatria509.ann
+T1	PACIENTE	38	53	diseñor gráfico	caso_clinico_psiquiatria52.ann
+T2	PACIENTE	2237	2248	está parado	caso_clinico_psiquiatria52.ann
+T1	SANITARIO	436	458	Equipo de Salud Mental	caso_clinico_psiquiatria530.ann
+T2	SANITARIO	6521	6543	Equipo de Salud Mental	caso_clinico_psiquiatria530.ann
+T5	PACIENTE	363	378	de baja laboral	caso_clinico_psiquiatria530.ann
+T6	SANITARIO	2125	2138	especialistas	caso_clinico_psiquiatria530.ann
+T8	SANITARIO	138	148	psiquiatra	caso_clinico_psiquiatria530.ann
+T9	PACIENTE	307	349	Ex-trabajadora en una fábrica de conservas	caso_clinico_psiquiatria530.ann
+T3	PACIENTE	966	1024	actividad laboral en una fábrica de conservas de aceitunas	caso_clinico_psiquiatria530.ann
+T1	PACIENTE	803	824	abandona los estudios	caso_clinico_psiquiatria541.ann
+T3	OTROS	1090	1100	compañeros	caso_clinico_psiquiatria541.ann
+T6	PACIENTE	168	203	comienza estudios en la Universidad	caso_clinico_psiquiatria541.ann
+T2	OTROS	725	735	compañeros	caso_clinico_psiquiatria541.ann
+T7	PACIENTE	994	1012	empezar las clases	caso_clinico_psiquiatria541.ann
+T3	OTROS	3735	3755	compañeros del curso	caso_clinico_psiquiatria546.ann
+T1	PACIENTE	3540	3574	inicia estudios de módulo superior	caso_clinico_psiquiatria546.ann
+T2	SANITARIO	3186	3197	facultativo	caso_clinico_psiquiatria561.ann
+T1	OTROS	251	275	Fuerzas de Orden Público	caso_clinico_psiquiatria561.ann
+T3	PACIENTE	4403	4427	manipulador de alimentos	caso_clinico_psiquiatria561.ann
+T1	OTROS	200	209	encargado	caso_clinico_psiquiatria58.ann
+T2	PACIENTE	326	354	Contratada en una lavandería	caso_clinico_psiquiatria58.ann
+T1	PACIENTE	2978	2999	inactivo laboralmente	caso_clinico_psiquiatria63.ann
+T2	PACIENTE	2927	2958	finalizó los estudios primarios	caso_clinico_psiquiatria63.ann
+T3	PACIENTE	3013	3068	distintos trabajos en empresas de reparto de paquetería	caso_clinico_psiquiatria63.ann
+T1	SANITARIO	1637	1640	ATS	caso_clinico_psiquiatria64.ann
+T2	SANITARIO	941	949	personal	caso_clinico_psiquiatria64.ann
+T3	SANITARIO	1261	1283	personal de Enfermería	caso_clinico_psiquiatria64.ann
+T4	OTROS	153	160	Policía	caso_clinico_psiquiatria64.ann
+T5	OTROS	369	388	agentes de policías	caso_clinico_psiquiatria64.ann
+T6	PACIENTE	403	425	ejerce la prostitución	caso_clinico_psiquiatria64.ann
+T7	OTROS	1754	1767	baja temporal	caso_clinico_psiquiatria64.ann
+T1	SANITARIO	971	982	profesional	caso_clinico_psiquiatria69.ann
+T1	OTROS	9417	9425	empleada	caso_clinico_psiquiatria78.ann
+T2	FAMILIAR	14538	14555	rentista jubilado	caso_clinico_psiquiatria78.ann
+T3	SANITARIO	9182	9197	personal médico	caso_clinico_psiquiatria78.ann
+T7	PACIENTE	269	283	Administradora	caso_clinico_psiquiatria78.ann
+T8	OTROS	1078	1106	profesor de educación física	caso_clinico_psiquiatria78.ann
+T9	OTROS	1795	1816	compañeros de colegio	caso_clinico_psiquiatria78.ann
+T10	PACIENTE	2349	2389	Comienza a trabajar en una fotocopiadora	caso_clinico_psiquiatria78.ann
+T11	SANITARIO	9182	9213	personal médico y de enfermería	caso_clinico_psiquiatria78.ann
+T12	SANITARIO	9566	9573	médicos	caso_clinico_psiquiatria78.ann
+T4	PACIENTE	12063	12084	Inicia su escolaridad	caso_clinico_psiquiatria78.ann
+T13	PACIENTE	12112	12126	realiza Kinder	caso_clinico_psiquiatria78.ann
+T14	PACIENTE	12142	12170	ingresa al ciclo de primaria	caso_clinico_psiquiatria78.ann
+T15	PACIENTE	12729	12749	en una fotocopiadora	caso_clinico_psiquiatria78.ann
+T16	PACIENTE	12785	12822	trabaja en un laboratorio fotográfico	caso_clinico_psiquiatria78.ann
+T17	PACIENTE	12906	12964	desempeña funciones de administración en una fotocopiadora	caso_clinico_psiquiatria78.ann
+T18	FAMILIAR	13601	13615	robo de dinero	caso_clinico_psiquiatria78.ann
+T19	FAMILIAR	13824	13838	robo de dinero	caso_clinico_psiquiatria78.ann
+T20	OTROS	14084	14092	pastores	caso_clinico_psiquiatria78.ann
+T21	FAMILIAR	14538	14582	rentista jubilado de una fábrica de fósforos	caso_clinico_psiquiatria78.ann
+T22	FAMILIAR	15144	15188	desarrolla actividades laborales en su hogar	caso_clinico_psiquiatria78.ann
+T5	PACIENTE	13770	13782	no trabajaba	caso_clinico_psiquiatria78.ann
+T6	PACIENTE	12346	12379	estudios de 3o y 4o de secundaria	caso_clinico_psiquiatria78.ann
+T1	SANITARIO	411	417	médico	caso_clinico_psiquiatria86.ann
+T2	SANITARIO	1226	1232	médico	caso_clinico_psiquiatria86.ann
+T3	SANITARIO	729	735	médico	caso_clinico_psiquiatria86.ann
+T1	SANITARIO	2978	2988	psiquiatra	caso_clinico_psiquiatria94.ann
+T2	FAMILIAR	277	293	visitador médico	caso_clinico_psiquiatria94.ann
+T3	FAMILIAR	321	346	trabaja en una copistería	caso_clinico_psiquiatria94.ann
+T4	OTROS	1069	1088	compañeros de clase	caso_clinico_psiquiatria94.ann
+T5	OTROS	1689	1711	director de la escuela	caso_clinico_psiquiatria94.ann
+T6	PACIENTE	1107	1116	2a de ESO	caso_clinico_psiquiatria94.ann
+T1	OTROS	231	241	cuidadores	caso_clinico_radiologia956.ann
+T2	OTROS	530	540	cuidadores	caso_clinico_radiologia956.ann
+T1	PACIENTE	15	24	Profesora	caso_clinico_radiologia986.ann
+T2	SANITARIO	152	179	médico de atención primaria	caso_clinico_radiologia988.ann
+T1	SANITARIO	709	712	MAP	caso_clinico_urgencias85.ann
+T2	SANITARIO	222	239	médico de familia	caso_clinico_urgencias85.ann
+T5	SANITARIO	1068	1095	médico de Atención Primaria	caso_clinico_urologia266.ann
+T6	SANITARIO	1140	1147	urólogo	caso_clinico_urologia266.ann
+T1	SANITARIO	1448	1475	médico de Atención Primaria	caso_clinico_urologia270.ann
+T1	SANITARIO	56	83	médico de Atención Primaria	caso_clinico_urologia53.ann
+T2	SANITARIO	355	362	urólogo	caso_clinico_urologia53.ann
+T1	SANITARIO	325	352	médico de Atención Primaria	caso_clinico_urologia58.ann
+T1	SANITARIO	127	142	médico familiar	casos_clinicos_infecciosas112.ann
+T1	PACIENTE	18	31	dueña de casa	casos_clinicos_infecciosas113.ann
+T1	PACIENTE	497	507	agricultor	casos_clinicos_infecciosas115.ann
+T1	PACIENTE	60	70	pensionada	casos_clinicos_infecciosas117.ann
+T1	PACIENTE	169	206	vive en una situación social precaria	casos_clinicos_infecciosas193.ann
+T2	PACIENTE	208	218	indigencia	casos_clinicos_infecciosas193.ann
+T3	OTROS	6923	6943	compañeros del viaje	casos_clinicos_infecciosas53.ann
+T4	OTROS	8232	8242	compañeros	casos_clinicos_infecciosas53.ann
+T5	PACIENTE	35	41	médico	casos_clinicos_infecciosas53.ann
+T6	OTROS	488	492	guía	casos_clinicos_infecciosas53.ann
+T7	OTROS	513	527	excursionistas	casos_clinicos_infecciosas53.ann
+T1	OTROS	7072	7076	guía	casos_clinicos_infecciosas53.ann
+T8	OTROS	7320	7338	compañero de viaje	casos_clinicos_infecciosas53.ann
+T9	OTROS	8038	8056	compañero de viaje	casos_clinicos_infecciosas53.ann
+T2	OTROS	8515	8529	excursionistas	casos_clinicos_infecciosas53.ann
+T10	PACIENTE	597	619	practicando senderismo	casos_clinicos_infecciosas53.ann
+T1	SANITARIO	214	241	médico de atención primaria	casos_clinicos_infecciosas82.ann
+T1	PACIENTE	31	40	calderero	casos_clinicos_profesiones10.ann
+T2	PACIENTE	42	50	montador	casos_clinicos_profesiones10.ann
+T3	PACIENTE	51	59	soldador	casos_clinicos_profesiones10.ann
+T4	PACIENTE	275	299	trabajar, en una fábrica	casos_clinicos_profesiones10.ann
+T5	PACIENTE	3176	3186	trabajador	casos_clinicos_profesiones10.ann
+T3	PACIENTE	100	130	obrero de la Empresa Eléctrica	casos_clinicos_profesiones102.ann
+T1	PACIENTE	5357	5388	incorporación a su vida laboral	casos_clinicos_profesiones102.ann
+T1	PACIENTE	201	224	trabajos de albañilería	casos_clinicos_profesiones103.ann
+T1	PACIENTE	431	441	limpiadora	casos_clinicos_profesiones106.ann
+T1	SANITARIO	2571	2588	Cirujano Pediatra	casos_clinicos_profesiones107.ann
+T5	FAMILIAR	339	369	ocupación comercio ambulatorio	casos_clinicos_profesiones107.ann
+T2	SANITARIO	775	783	obstetra	casos_clinicos_profesiones107.ann
+T5	PACIENTE	1979	1987	soldador	casos_clinicos_profesiones108.ann
+T6	PACIENTE	2243	2251	soldador	casos_clinicos_profesiones108.ann
+T7	PACIENTE	4347	4355	soldador	casos_clinicos_profesiones108.ann
+T8	PACIENTE	2270	2280	trabajador	casos_clinicos_profesiones108.ann
+T9	PACIENTE	2677	2687	trabajador	casos_clinicos_profesiones108.ann
+T10	PACIENTE	4261	4271	trabajador	casos_clinicos_profesiones108.ann
+T1	SANITARIO	350	407	médicos especialistas de Otorrinolaringología y foniatría	casos_clinicos_profesiones109.ann
+T2	SANITARIO	350	395	médicos especialistas de Otorrinolaringología	casos_clinicos_profesiones109.ann
+T3	PACIENTE	2997	3016	operador de máquina	casos_clinicos_profesiones109.ann
+T4	PACIENTE	3019	3048	técnico de acabado y empacado	casos_clinicos_profesiones109.ann
+T1	OTROS	497	509	trabajadores	casos_clinicos_profesiones11.ann
+T2	PACIENTE	22	56	administrativa en una gran empresa	casos_clinicos_profesiones11.ann
+T3	PACIENTE	937	961	baja laboral transitoria	casos_clinicos_profesiones11.ann
+T3	PACIENTE	28	35	albañil	casos_clinicos_profesiones110.ann
+T4	SANITARIO	328	346	médico de cabecera	casos_clinicos_profesiones110.ann
+T1	SANITARIO	345	351	Medico	casos_clinicos_profesiones111.ann
+T2	PACIENTE	55	60	en IT	casos_clinicos_profesiones111.ann
+T3	PACIENTE	374	394	Incapacidad temporal	casos_clinicos_profesiones111.ann
+T4	PACIENTE	295	297	IT	casos_clinicos_profesiones111.ann
+T5	PACIENTE	206	223	realizar natación	casos_clinicos_profesiones111.ann
+T6	PACIENTE	396	398	IT	casos_clinicos_profesiones111.ann
+T1	PACIENTE	64	86	cajera de supermercado	casos_clinicos_profesiones112.ann
+T3	PACIENTE	373	402	IT por enfermedad profesional	casos_clinicos_profesiones112.ann
+T4	OTROS	336	340	baja	casos_clinicos_profesiones112.ann
+T5	PACIENTE	346	369	IT por enfermedad común	casos_clinicos_profesiones112.ann
+T2	PACIENTE	505	525	Incapacidad temporal	casos_clinicos_profesiones112.ann
+T6	PACIENTE	407	422	IT por embarazo	casos_clinicos_profesiones112.ann
+T7	OTROS	496	500	baja	casos_clinicos_profesiones112.ann
+T8	PACIENTE	527	529	IT	casos_clinicos_profesiones112.ann
+T1	PACIENTE	27	35	celadora	casos_clinicos_profesiones113.ann
+T2	PACIENTE	229	249	Incapacidad temporal	casos_clinicos_profesiones113.ann
+T3	PACIENTE	254	269	IT como Recaída	casos_clinicos_profesiones113.ann
+T4	PACIENTE	292	294	It	casos_clinicos_profesiones113.ann
+T5	OTROS	330	332	IT	casos_clinicos_profesiones113.ann
+T1	PACIENTE	66	99	trabajador del sector metalúrgico	casos_clinicos_profesiones114.ann
+T1	SANITARIO	170	173	Dr.	casos_clinicos_profesiones115.ann
+T2	SANITARIO	189	206	equipo de cirugía	casos_clinicos_profesiones115.ann
+T3	PACIENTE	34	44	estudiante	casos_clinicos_profesiones115.ann
+T4	PACIENTE	109	132	prácticas profesionales	casos_clinicos_profesiones115.ann
+T1	OTROS	1862	1871	empleados	casos_clinicos_profesiones116.ann
+T2	OTROS	10541	10550	empleados	casos_clinicos_profesiones116.ann
+T3	OTROS	11579	11588	empleados	casos_clinicos_profesiones116.ann
+T4	PACIENTE	124	172	trabaja en un negocio familiar, un pequeño hotel	casos_clinicos_profesiones116.ann
+T5	PACIENTE	207	249	dedicándose en la actualidad a la gerencia	casos_clinicos_profesiones116.ann
+T6	PACIENTE	1563	1607	se dedica a la gerencia de un hotel familiar	casos_clinicos_profesiones116.ann
+T7	SANITARIO	11423	11434	coterapeuta	casos_clinicos_profesiones116.ann
+T1	SANITARIO	111	121	enfermeras	casos_clinicos_profesiones117.ann
+T2	SANITARIO	360	379	médico urgenciologo	casos_clinicos_profesiones117.ann
+T3	PACIENTE	13	43	trabajador de campos agrícolas	casos_clinicos_profesiones117.ann
+T4	SANITARIO	73	84	paramédicos	casos_clinicos_profesiones117.ann
+T1	PACIENTE	1731	1766	acude al gimnasio de rehabilitación	casos_clinicos_profesiones118.ann
+T2	PACIENTE	50	58	jubilado	casos_clinicos_profesiones118.ann
+T7	PACIENTE	106	125	trabajador de Renfe	casos_clinicos_profesiones118.ann
+T2	PACIENTE	28	93	Trabaja desde 1988 en una pequeña empresa de piedras ornamentales	casos_clinicos_profesiones119.ann
+T1	OTROS	882	903	higienistas laborales	casos_clinicos_profesiones119.ann
+T3	PACIENTE	66	89	auxiliar administrativa	casos_clinicos_profesiones12.ann
+T1	PACIENTE	11815	11846	incapacidad laboral transitoria	casos_clinicos_profesiones12.ann
+T2	PACIENTE	11948	11959	pensionista	casos_clinicos_profesiones12.ann
+T4	SANITARIO	9319	9345	especialistas de prestigio	casos_clinicos_profesiones12.ann
+T3	PACIENTE	19	55	empleado de la industria metalúrgica	casos_clinicos_profesiones120.ann
+T4	PACIENTE	466	487	empleado de seguridad	casos_clinicos_profesiones120.ann
+T7	PACIENTE	61	83	operador de maquinaria	casos_clinicos_profesiones120.ann
+T2	PACIENTE	669	717	operador de máquinas en la industria metalúrgica	casos_clinicos_profesiones120.ann
+T1	PACIENTE	47	66	CAJERA EN MERCADONA	casos_clinicos_profesiones121.ann
+T1	PACIENTE	71	78	EN PARO	casos_clinicos_profesiones122.ann
+T1	PACIENTE	37	56	Cajera supermercado	casos_clinicos_profesiones123.ann
+T1	PACIENTE	40	46	cajero	casos_clinicos_profesiones124.ann
+T1	PACIENTE	2720	2742	Cajera de supermercado	casos_clinicos_profesiones125.ann
+T3	OTROS	2016	2025	enfermero	casos_clinicos_profesiones125.ann
+T5	PACIENTE	297	322	cajera en un supermercado	casos_clinicos_profesiones125.ann
+T1	FAMILIAR	631	661	trabaja en un centro comercial	casos_clinicos_profesiones126.ann
+T2	OTROS	5849	5875	compañera de la peluquería	casos_clinicos_profesiones126.ann
+T3	OTROS	2763	2773	compañeros	casos_clinicos_profesiones126.ann
+T4	OTROS	731	735	juez	casos_clinicos_profesiones126.ann
+T5	SANITARIO	6355	6372	médico de familia	casos_clinicos_profesiones126.ann
+T7	PACIENTE	555	562	taxista	casos_clinicos_profesiones126.ann
+T8	PACIENTE	2520	2527	taxista	casos_clinicos_profesiones126.ann
+T6	FAMILIAR	667	673	cajera	casos_clinicos_profesiones126.ann
+T9	FAMILIAR	1496	1521	trabaja en una peluquería	casos_clinicos_profesiones126.ann
+T10	PACIENTE	77	110	estudios de formación profesional	casos_clinicos_profesiones126.ann
+T2	PACIENTE	1483	1494	dependienta	casos_clinicos_profesiones127.ann
+T4	SANITARIO	2691	2701	psiquiatra	casos_clinicos_profesiones127.ann
+T1	PACIENTE	1635	1655	interina en una casa	casos_clinicos_profesiones127.ann
+T3	PACIENTE	1660	1685	cajera en un supermercado	casos_clinicos_profesiones127.ann
+T5	PACIENTE	1704	1726	trabaja en la limpieza	casos_clinicos_profesiones127.ann
+T6	SANITARIO	2882	2905	residente de psicología	casos_clinicos_profesiones127.ann
+T7	PACIENTE	1517	1548	Nunca ha tenido un trabajo fijo	casos_clinicos_profesiones127.ann
+T8	PACIENTE	1406	1442	Realizó estudios de F.P y peluquería	casos_clinicos_profesiones127.ann
+T2	SANITARIO	2388	2412	especialistas en cirugía	casos_clinicos_profesiones128.ann
+T1	PACIENTE	158	164	cajera	casos_clinicos_profesiones128.ann
+T3	SANITARIO	2388	2431	especialistas en cirugía y medicina interna	casos_clinicos_profesiones128.ann
+T1	OTROS	1127	1137	intérprete	casos_clinicos_profesiones129.ann
+T4	OTROS	2321	2334	profesionales	casos_clinicos_profesiones129.ann
+T5	PACIENTE	285	297	embarriadora	casos_clinicos_profesiones129.ann
+T2	PACIENTE	1812	1828	Hacursado la ESO	casos_clinicos_profesiones129.ann
+T3	OTROS	1665	1678	profesionales	casos_clinicos_profesiones129.ann
+T1	SANITARIO	29	40	reumatólogo	casos_clinicos_profesiones130.ann
+T1	PACIENTE	49	67	cajero en un banco	casos_clinicos_profesiones131.ann
+T2	PACIENTE	361	398	realizar ejercicio (partido de fútbol	casos_clinicos_profesiones131.ann
+T1	SANITARIO	3469	3472	Dr.	casos_clinicos_profesiones133.ann
+T2	SANITARIO	3910	3913	Dr.	casos_clinicos_profesiones133.ann
+T3	SANITARIO	519	531	especialista	casos_clinicos_profesiones133.ann
+T4	PACIENTE	1524	1548	cajero en un restaurante	casos_clinicos_profesiones133.ann
+T1	PACIENTE	605	634	cajera en un centro comercial	casos_clinicos_profesiones134.ann
+T3	PACIENTE	250	275	cajera en un supermercado	casos_clinicos_profesiones135.ann
+T1	PACIENTE	249	278	cajera en un centro comercial	casos_clinicos_profesiones136.ann
+T2	SANITARIO	4617	4651	personal del servicio de urgencias	casos_clinicos_profesiones139.ann
+T4	PACIENTE	35	44	Estilista	casos_clinicos_profesiones139.ann
+T3	PACIENTE	67	91	sin ocupación remunerada	casos_clinicos_profesiones140.ann
+T1	PACIENTE	94	126	dedicada a las labores del hogar	casos_clinicos_profesiones140.ann
+T1	SANITARIO	2643	2656	especialistas	casos_clinicos_profesiones141.ann
+T2	PACIENTE	285	295	frigorista	casos_clinicos_profesiones141.ann
+T3	SANITARIO	2872	2881	neumólogo	casos_clinicos_profesiones141.ann
+T4	PACIENTE	3543	3553	trabajador	casos_clinicos_profesiones141.ann
+T5	PACIENTE	3769	3779	trabajador	casos_clinicos_profesiones141.ann
+T6	PACIENTE	50	70	técnico de postventa	casos_clinicos_profesiones141.ann
+T7	PACIENTE	267	283	técnico de campo	casos_clinicos_profesiones141.ann
+T8	PACIENTE	2677	2697	incapacidad temporal	casos_clinicos_profesiones141.ann
+T9	PACIENTE	96	136	se dedica a la instalación de maquinaria	casos_clinicos_profesiones141.ann
+T2	PACIENTE	3	46	trabajador del servicio de Medicina Nuclear	casos_clinicos_profesiones142.ann
+T3	PACIENTE	268	278	trabajador	casos_clinicos_profesiones142.ann
+T4	PACIENTE	641	651	trabajador	casos_clinicos_profesiones142.ann
+T5	PACIENTE	1375	1385	trabajador	casos_clinicos_profesiones142.ann
+T6	PACIENTE	1649	1697	trabajador en la instalación de Medicina Nuclear	casos_clinicos_profesiones142.ann
+T7	PACIENTE	2014	2024	trabajador	casos_clinicos_profesiones142.ann
+T8	PACIENTE	2876	2886	trabajador	casos_clinicos_profesiones142.ann
+T9	PACIENTE	3035	3045	trabajador	casos_clinicos_profesiones142.ann
+T10	PACIENTE	3115	3125	trabajador	casos_clinicos_profesiones142.ann
+T11	PACIENTE	2661	2673	trabajadores	casos_clinicos_profesiones142.ann
+T1	PACIENTE	173	198	Profesor educación básica	casos_clinicos_profesiones143.ann
+T3	PACIENTE	204	214	cooperante	casos_clinicos_profesiones143.ann
+T2	PACIENTE	343	365	trabajar en un colegio	casos_clinicos_profesiones143.ann
+T1	PACIENTE	218	234	protésica dental	casos_clinicos_profesiones144.ann
+T2	PACIENTE	3311	3340	abandonó su puesto de trabajo	casos_clinicos_profesiones144.ann
+T2	PACIENTE	229	245	operador de grúa	casos_clinicos_profesiones145.ann
+T3	PACIENTE	248	280	operario en área de electrolisis	casos_clinicos_profesiones145.ann
+T1	PACIENTE	1392	1408	operario de grúa	casos_clinicos_profesiones145.ann
+T4	PACIENTE	1475	1491	operario de grúa	casos_clinicos_profesiones145.ann
+T1	OTROS	2995	3003	Granjero	casos_clinicos_profesiones146.ann
+T2	OTROS	4929	4937	Granjero	casos_clinicos_profesiones146.ann
+T3	PACIENTE	46	50	RETA	casos_clinicos_profesiones146.ann
+T6	OTROS	1418	1426	granjero	casos_clinicos_profesiones146.ann
+T7	SANITARIO	3236	3254	medico de primaria	casos_clinicos_profesiones146.ann
+T11	PACIENTE	85	94	Autónomos	casos_clinicos_profesiones146.ann
+T12	PACIENTE	118	158	dueño de explotación agrícola y ganadera	casos_clinicos_profesiones146.ann
+T9	PACIENTE	230	239	Autónomos	casos_clinicos_profesiones146.ann
+T2	PACIENTE	68	92	médico interno residente	casos_clinicos_profesiones147.ann
+T4	PACIENTE	35	46	trabajadora	casos_clinicos_profesiones147.ann
+T5	PACIENTE	329	340	trabajadora	casos_clinicos_profesiones147.ann
+T6	PACIENTE	1464	1475	trabajadora	casos_clinicos_profesiones147.ann
+T7	PACIENTE	2362	2373	trabajadora	casos_clinicos_profesiones147.ann
+T8	PACIENTE	3925	3936	trabajadora	casos_clinicos_profesiones147.ann
+T9	OTROS	3808	3830	tutora de la residente	casos_clinicos_profesiones147.ann
+T4	PACIENTE	83	93	deportista	casos_clinicos_profesiones148.ann
+T5	PACIENTE	46	66	buceador profesional	casos_clinicos_profesiones148.ann
+T1	PACIENTE	572	601	realiza ejercicio de natación	casos_clinicos_profesiones148.ann
+T2	PACIENTE	18	40	auxiliar de enfermería	casos_clinicos_profesiones149.ann
+T3	PACIENTE	134	144	limpiadora	casos_clinicos_profesiones149.ann
+T4	SANITARIO	3690	3696	médico	casos_clinicos_profesiones149.ann
+T5	SANITARIO	3554	3581	médico de atención primaria	casos_clinicos_profesiones149.ann
+T7	PACIENTE	3465	3476	trabajadora	casos_clinicos_profesiones149.ann
+T8	PACIENTE	42	45	AXE	casos_clinicos_profesiones149.ann
+T9	PACIENTE	90	123	encajadora en empresa de cítricos	casos_clinicos_profesiones149.ann
+T10	PACIENTE	184	187	AXE	casos_clinicos_profesiones149.ann
+T6	PACIENTE	1012	1015	AXE	casos_clinicos_profesiones149.ann
+T11	OTROS	2517	2520	AXE	casos_clinicos_profesiones149.ann
+T1	PACIENTE	29	76	trabajó durante unaño en un pequeño laboratorio	casos_clinicos_profesiones15.ann
+T2	PACIENTE	515	530	de baja laboral	casos_clinicos_profesiones150.ann
+T3	PACIENTE	1532	1546	de baja médica	casos_clinicos_profesiones150.ann
+T8	PACIENTE	73	102	Matrona en un centro de salud	casos_clinicos_profesiones150.ann
+T2	PACIENTE	17	68	auxiliar administrativo en Centro de Especialidades	casos_clinicos_profesiones151.ann
+T3	PACIENTE	703	714	trabajadora	casos_clinicos_profesiones151.ann
+T1	PACIENTE	484	512	Incapacidad Laboral Temporal	casos_clinicos_profesiones151.ann
+T4	PACIENTE	748	776	Incapacidad Laboral Temporal	casos_clinicos_profesiones151.ann
+T5	PACIENTE	605	627	Incapacidad Permanente	casos_clinicos_profesiones151.ann
+T6	PACIENTE	849	871	Incapacidad Permanente	casos_clinicos_profesiones151.ann
+T1	SANITARIO	539	542	MAP	casos_clinicos_profesiones152.ann
+T2	SANITARIO	855	858	MAP	casos_clinicos_profesiones152.ann
+T3	OTROS	233	243	compañeros	casos_clinicos_profesiones152.ann
+T4	OTROS	458	462	jefe	casos_clinicos_profesiones152.ann
+T5	SANITARIO	510	537	médico de atención primaria	casos_clinicos_profesiones152.ann
+T6	PACIENTE	598	608	trabajador	casos_clinicos_profesiones152.ann
+T7	PACIENTE	630	640	trabajador	casos_clinicos_profesiones152.ann
+T8	PACIENTE	1054	1064	trabajador	casos_clinicos_profesiones152.ann
+T9	PACIENTE	57	87	Operario en industria a turnos	casos_clinicos_profesiones152.ann
+T10	PACIENTE	564	584	incapacidad temporal	casos_clinicos_profesiones152.ann
+T1	PACIENTE	0	22	Auxiliar de Hostelería	casos_clinicos_profesiones153.ann
+T3	PACIENTE	491	502	trabajadora	casos_clinicos_profesiones153.ann
+T2	PACIENTE	711	714	IPT	casos_clinicos_profesiones153.ann
+T1	PACIENTE	161	183	auxiliar de enfermería	casos_clinicos_profesiones154.ann
+T3	PACIENTE	529	540	trabajadora	casos_clinicos_profesiones154.ann
+T2	PACIENTE	220	258	trabajo anterior Servicio de Urgencias	casos_clinicos_profesiones154.ann
+T1	SANITARIO	1328	1331	MAP	casos_clinicos_profesiones155.ann
+T2	PACIENTE	16	43	Médico de Atención Primaria	casos_clinicos_profesiones155.ann
+T1	OTROS	208	212	jefe	casos_clinicos_profesiones156.ann
+T2	SANITARIO	295	301	médico	casos_clinicos_profesiones156.ann
+T3	PACIENTE	311	321	trabajador	casos_clinicos_profesiones156.ann
+T4	PACIENTE	59	89	operario planta pretratamiento	casos_clinicos_profesiones156.ann
+T5	PACIENTE	961	981	incapacidad temporal	casos_clinicos_profesiones156.ann
+T1	PACIENTE	14	25	Trabajadora	casos_clinicos_profesiones157.ann
+T2	PACIENTE	325	348	auxiliar administrativo	casos_clinicos_profesiones157.ann
+T3	PACIENTE	1299	1306	despido	casos_clinicos_profesiones157.ann
+T4	PACIENTE	97	112	baja prolongada	casos_clinicos_profesiones157.ann
+T1	PACIENTE	18	72	Médico Residente de segundo año de Anatomía Patológica	casos_clinicos_profesiones158.ann
+T2	PACIENTE	1028	1060	abandonar su carrera profesional	casos_clinicos_profesiones158.ann
+T2	PACIENTE	1461	1510	Incapacidad Permanente por Enfermedad Profesional	casos_clinicos_profesiones159.ann
+T5	PACIENTE	1953	1976	Incapacidad Profesional	casos_clinicos_profesiones159.ann
+T8	PACIENTE	505	507	IT	casos_clinicos_profesiones159.ann
+T9	PACIENTE	557	586	restauradora de obras de arte	casos_clinicos_profesiones159.ann
+T10	PACIENTE	740	781	Incapacidad Temporal por enfermedad Común	casos_clinicos_profesiones159.ann
+T11	PACIENTE	895	918	incorporarse al trabajo	casos_clinicos_profesiones159.ann
+T12	PACIENTE	1026	1046	Incapacidad Temporal	casos_clinicos_profesiones159.ann
+T1	PACIENTE	2000	2028	Incapacidad Permanente Total	casos_clinicos_profesiones159.ann
+T3	PACIENTE	2050	2062	restauradora	casos_clinicos_profesiones159.ann
+T1	PACIENTE	105	122	higienista dental	casos_clinicos_profesiones160.ann
+T2	PACIENTE	23	59	Médico Especialista Medicina Interna	casos_clinicos_profesiones161.ann
+T3	PACIENTE	0	10	Trabajador	casos_clinicos_profesiones161.ann
+T4	PACIENTE	702	712	trabajador	casos_clinicos_profesiones161.ann
+T1	PACIENTE	339	346	Adjunto	casos_clinicos_profesiones161.ann
+T1	PACIENTE	105	128	Auxiliar Administrativo	casos_clinicos_profesiones162.ann
+T2	PACIENTE	2408	2415	despido	casos_clinicos_profesiones162.ann
+T3	SANITARIO	782	801	otorrinolaringólogo	casos_clinicos_profesiones162.ann
+T4	OTROS	198	226	incapacidad permanente total	casos_clinicos_profesiones162.ann
+T1	PACIENTE	0	11	Trabajadora	casos_clinicos_profesiones163.ann
+T2	OTROS	699	711	trabajadores	casos_clinicos_profesiones163.ann
+T3	PACIENTE	73	131	trabajaba desde hace 14 años en empresa de aerogeneradores	casos_clinicos_profesiones163.ann
+T4	PACIENTE	287	321	trabajo a mantenimiento y acabados	casos_clinicos_profesiones163.ann
+T5	PACIENTE	588	608	incapacidad temporal	casos_clinicos_profesiones163.ann
+T6	PACIENTE	155	183	realizaba tareas de limpieza	casos_clinicos_profesiones163.ann
+T2	PACIENTE	201	256	empleado de Servicios Centrales de una entidad bancaria	casos_clinicos_profesiones164.ann
+T1	PACIENTE	258	301	realizando tareas de oficina administrativa	casos_clinicos_profesiones164.ann
+T3	PACIENTE	1455	1480	se reincorpora al trabajo	casos_clinicos_profesiones164.ann
+T1	PACIENTE	702	728	administrativo de sucursal	casos_clinicos_profesiones165.ann
+T2	PACIENTE	998	1006	empleada	casos_clinicos_profesiones165.ann
+T3	PACIENTE	1436	1444	empleada	casos_clinicos_profesiones165.ann
+T4	SANITARIO	1157	1184	médico de Atención Primaria	casos_clinicos_profesiones165.ann
+T8	PACIENTE	32	77	trabajo en una empresa del sector de la banca	casos_clinicos_profesiones165.ann
+T6	PACIENTE	391	420	directora de oficina bancaria	casos_clinicos_profesiones165.ann
+T7	OTROS	441	451	superiores	casos_clinicos_profesiones165.ann
+T9	PACIENTE	1521	1541	incapacidad temporal	casos_clinicos_profesiones165.ann
+T5	PACIENTE	1681	1692	baja médica	casos_clinicos_profesiones165.ann
+T1	PACIENTE	0	30	Facultativo de área quirúrgica	casos_clinicos_profesiones166.ann
+T1	PACIENTE	65	95	Músico profesional de orquesta	casos_clinicos_profesiones167.ann
+T3	OTROS	688	709	músicos profesionales	casos_clinicos_profesiones167.ann
+T2	PACIENTE	97	110	percusionista	casos_clinicos_profesiones167.ann
+T3	PACIENTE	19	29	marmolista	casos_clinicos_profesiones168.ann
+T1	PACIENTE	202	213	Trabajadora	casos_clinicos_profesiones169.ann
+T2	SANITARIO	439	450	facultativo	casos_clinicos_profesiones169.ann
+T3	SANITARIO	410	437	médico de atención primaria	casos_clinicos_profesiones169.ann
+T4	PACIENTE	18	36	Aux. de Enfermería	casos_clinicos_profesiones169.ann
+T5	PACIENTE	38	40	AE	casos_clinicos_profesiones169.ann
+T6	PACIENTE	337	357	Incapacidad Temporal	casos_clinicos_profesiones169.ann
+T7	PACIENTE	1096	1098	IT	casos_clinicos_profesiones169.ann
+T4	PACIENTE	202	225	Trabajó cortando mármol	casos_clinicos_profesiones170.ann
+T1	SANITARIO	352	364	especialista	casos_clinicos_profesiones171.ann
+T2	PACIENTE	0	10	Odontólogo	casos_clinicos_profesiones171.ann
+T1	PACIENTE	0	9	Enfermera	casos_clinicos_profesiones172.ann
+T2	PACIENTE	1140	1162	enfermera de quirófano	casos_clinicos_profesiones172.ann
+T1	PACIENTE	237	247	esteticién	casos_clinicos_profesiones173.ann
+T2	PACIENTE	547	558	trabajadora	casos_clinicos_profesiones173.ann
+T3	PACIENTE	1072	1083	trabajadora	casos_clinicos_profesiones173.ann
+T4	PACIENTE	1416	1427	trabajadora	casos_clinicos_profesiones173.ann
+T2	PACIENTE	860	871	Trabajadora	casos_clinicos_profesiones174.ann
+T4	PACIENTE	375	386	trabajadora	casos_clinicos_profesiones174.ann
+T5	PACIENTE	475	486	trabajadora	casos_clinicos_profesiones174.ann
+T3	PACIENTE	1266	1268	IT	casos_clinicos_profesiones174.ann
+T1	PACIENTE	19	68	enfermero de Centro de Salud en Atención Primaria	casos_clinicos_profesiones175.ann
+T2	PACIENTE	1585	1595	trabajador	casos_clinicos_profesiones175.ann
+T3	PACIENTE	179	199	Incapacidad Temporal	casos_clinicos_profesiones175.ann
+T4	PACIENTE	1438	1458	incapacidad temporal	casos_clinicos_profesiones175.ann
+T5	PACIENTE	1460	1462	IT	casos_clinicos_profesiones175.ann
+T6	PACIENTE	201	203	IT	casos_clinicos_profesiones175.ann
+T2	SANITARIO	985	1003	médico del trabajo	casos_clinicos_profesiones176.ann
+T4	SANITARIO	856	866	psiquiatra	casos_clinicos_profesiones176.ann
+T5	SANITARIO	1006	1016	psiquiatra	casos_clinicos_profesiones176.ann
+T6	SANITARIO	1315	1325	psiquiatra	casos_clinicos_profesiones176.ann
+T7	SANITARIO	1522	1532	psiquiatra	casos_clinicos_profesiones176.ann
+T8	PACIENTE	61	72	trabajadora	casos_clinicos_profesiones176.ann
+T9	PACIENTE	405	416	trabajadora	casos_clinicos_profesiones176.ann
+T10	PACIENTE	607	618	trabajadora	casos_clinicos_profesiones176.ann
+T11	PACIENTE	654	665	trabajadora	casos_clinicos_profesiones176.ann
+T12	PACIENTE	815	826	trabajadora	casos_clinicos_profesiones176.ann
+T13	PACIENTE	1140	1151	trabajadora	casos_clinicos_profesiones176.ann
+T14	PACIENTE	1441	1452	trabajadora	casos_clinicos_profesiones176.ann
+T1	PACIENTE	85	136	residente de primer año de una especialidad médica	casos_clinicos_profesiones176.ann
+T2	OTROS	954	965	compañeros	casos_clinicos_profesiones177.ann
+T3	SANITARIO	249	261	especialista	casos_clinicos_profesiones177.ann
+T4	PACIENTE	387	398	trabajadora	casos_clinicos_profesiones177.ann
+T5	PACIENTE	748	759	trabajadora	casos_clinicos_profesiones177.ann
+T6	PACIENTE	1360	1371	trabajadora	casos_clinicos_profesiones177.ann
+T7	PACIENTE	19	49	técnico de Anatomía patológíca	casos_clinicos_profesiones177.ann
+T1	PACIENTE	134	141	celador	casos_clinicos_profesiones178.ann
+T2	OTROS	1390	1400	compañero	casos_clinicos_profesiones178.ann
+T3	PACIENTE	142	199	conductor con grado de discapacidad reconocida en almacén	casos_clinicos_profesiones178.ann
+T5	PACIENTE	1048	1058	trabajador	casos_clinicos_profesiones178.ann
+T6	PACIENTE	105	107	IT	casos_clinicos_profesiones178.ann
+T1	PACIENTE	78	132	Trabaja desde hace 10 años en una empresa farmacéutica	casos_clinicos_profesiones179.ann
+T2	PACIENTE	148	192	en el departamento de fabricación de grageas	casos_clinicos_profesiones179.ann
+T1	PACIENTE	649	657	podólogo	casos_clinicos_profesiones180.ann
+T1	PACIENTE	29	77	trabajó durante un año en un pequeño laboratorio	casos_clinicos_profesiones181.ann
+T1	PACIENTE	325	336	Informático	casos_clinicos_profesiones182.ann
+T3	SANITARIO	1665	1683	médico de cabecera	casos_clinicos_profesiones182.ann
+T4	SANITARIO	2160	2178	médico de cabecera	casos_clinicos_profesiones182.ann
+T5	PACIENTE	412	445	se dedicaba a reparar ordenadores	casos_clinicos_profesiones182.ann
+T2	PACIENTE	338	356	trabaja en oficina	casos_clinicos_profesiones182.ann
+T1	PACIENTE	1821	1828	de baja	casos_clinicos_profesiones183.ann
+T2	PACIENTE	68	110	en una fábrica de producción de pantalones	casos_clinicos_profesiones183.ann
+T3	PACIENTE	1307	1330	fábrica donde trabajaba	casos_clinicos_profesiones183.ann
+T2	PACIENTE	35	53	asistenta de hogar	casos_clinicos_profesiones184.ann
+T1	PACIENTE	15	23	cocinera	casos_clinicos_profesiones185.ann
+T2	SANITARIO	919	930	dermatólogo	casos_clinicos_profesiones185.ann
+T1	SANITARIO	1900	1936	especialistas en Medicina el Trabajo	casos_clinicos_profesiones186.ann
+T2	PACIENTE	160	168	Panadero	casos_clinicos_profesiones186.ann
+T3	PACIENTE	2010	2040	incapacidad permanente parcial	casos_clinicos_profesiones186.ann
+T5	SANITARIO	49	67	médico del trabajo	casos_clinicos_profesiones187.ann
+T6	PACIENTE	164	210	Había trabajado durante 10 años en una fábrica	casos_clinicos_profesiones187.ann
+T7	PACIENTE	241	263	controladora del stock	casos_clinicos_profesiones187.ann
+T3	PACIENTE	4689	4698	conductor	casos_clinicos_profesiones188.ann
+T4	PACIENTE	1939	1954	de baja laboral	casos_clinicos_profesiones188.ann
+T5	PACIENTE	152	196	comienza a trabajar en un horno de panadería	casos_clinicos_profesiones188.ann
+T1	PACIENTE	3804	3812	panadero	casos_clinicos_profesiones188.ann
+T2	PACIENTE	4596	4615	incapacidad laboral	casos_clinicos_profesiones188.ann
+T6	PACIENTE	4641	4661	trabajo en panadería	casos_clinicos_profesiones188.ann
+T1	PACIENTE	234	242	soldador	casos_clinicos_profesiones189.ann
+T1	PACIENTE	140	149	jardinera	casos_clinicos_profesiones190.ann
+T1	PACIENTE	57	98	había trabajado en una fábrica de muebles	casos_clinicos_profesiones191.ann
+T1	PACIENTE	58	104	Trabajador, desde hace 12 años, en una empresa	casos_clinicos_profesiones192.ann
+T3	PACIENTE	19	55	empleado de la industria metalúrgica	casos_clinicos_profesiones193.ann
+T4	PACIENTE	466	487	empleado de seguridad	casos_clinicos_profesiones193.ann
+T7	PACIENTE	61	83	operador de maquinaria	casos_clinicos_profesiones193.ann
+T2	PACIENTE	669	717	operador de máquinas en la industria metalúrgica	casos_clinicos_profesiones193.ann
+T1	PACIENTE	155	192	empleada en un supermercado de quesos	casos_clinicos_profesiones194.ann
+T2	PACIENTE	457	497	Trabaja en negocio familiar de panadería	casos_clinicos_profesiones195.ann
+T2	OTROS	629	639	compañeros	casos_clinicos_profesiones196.ann
+T3	OTROS	80	84	jefe	casos_clinicos_profesiones196.ann
+T4	OTROS	537	541	jefe	casos_clinicos_profesiones196.ann
+T5	SANITARIO	356	388	médico del servicio de urgencias	casos_clinicos_profesiones196.ann
+T2	PACIENTE	29	48	fabricante de joyas	casos_clinicos_profesiones197.ann
+T1	PACIENTE	748	767	fabricante de joyas	casos_clinicos_profesiones197.ann
+T2	PACIENTE	102	111	masajista	casos_clinicos_profesiones198.ann
+T1	OTROS	3179	3198	abogado de la Mutua	casos_clinicos_profesiones199.ann
+T2	PACIENTE	101	115	administrativa	casos_clinicos_profesiones199.ann
+T4	PACIENTE	2133	2156	baja laboral prolongada	casos_clinicos_profesiones199.ann
+T5	OTROS	397	406	compañera	casos_clinicos_profesiones199.ann
+T6	OTROS	631	641	compañeros	casos_clinicos_profesiones199.ann
+T7	PACIENTE	1305	1320	de baja laboral	casos_clinicos_profesiones199.ann
+T3	PACIENTE	1661	1689	incapacidad laboral absoluta	casos_clinicos_profesiones199.ann
+T8	PACIENTE	21	80	Inició su actividad laboral en una asociación de hostelería	casos_clinicos_profesiones199.ann
+T9	PACIENTE	3024	3039	bajas laborales	casos_clinicos_profesiones199.ann
+T1	PACIENTE	534	542	Jubilado	casos_clinicos_profesiones200.ann
+T2	PACIENTE	1937	1945	Jubilado	casos_clinicos_profesiones200.ann
+T3	PACIENTE	479	516	Historia Laboral: fábrica de aluminio	casos_clinicos_profesiones200.ann
+T4	PACIENTE	1882	1919	Historia Laboral: fábrica de aluminio	casos_clinicos_profesiones200.ann
+T2	PACIENTE	33	39	médico	casos_clinicos_profesiones201.ann
+T3	SANITARIO	2228	2246	personal sanitario	casos_clinicos_profesiones201.ann
+T2	OTROS	1071	1075	juez	casos_clinicos_profesiones202.ann
+T1	PACIENTE	46	56	estudiante	casos_clinicos_profesiones203.ann
+T2	SANITARIO	373	400	médico de atención primaria	casos_clinicos_profesiones203.ann
+T3	SANITARIO	2510	2519	enfermera	casos_clinicos_profesiones204.ann
+T5	SANITARIO	2007	2020	equipo médico	casos_clinicos_profesiones204.ann
+T7	SANITARIO	1353	1360	médicos	casos_clinicos_profesiones204.ann
+T1	OTROS	2437	2459	autoridades sanitarias	casos_clinicos_profesiones204.ann
+T1	PACIENTE	418	441	estuvo regentado un bar	casos_clinicos_profesiones205.ann
+T2	PACIENTE	525	549	trabaja por cuenta ajena	casos_clinicos_profesiones205.ann
+T3	PACIENTE	641	669	incapacidad laboral temporal	casos_clinicos_profesiones205.ann
+T4	PACIENTE	550	580	en situación estable de empleo	casos_clinicos_profesiones205.ann
+T1	SANITARIO	2274	2288	anestesiólogos	casos_clinicos_profesiones206.ann
+T2	SANITARIO	2956	2969	anestesiólogo	casos_clinicos_profesiones206.ann
+T1	SANITARIO	949	959	cardiólogo	casos_clinicos_profesiones207.ann
+T2	SANITARIO	1121	1131	cardiólogo	casos_clinicos_profesiones207.ann
+T3	SANITARIO	1578	1588	cardiólogo	casos_clinicos_profesiones207.ann
+T4	SANITARIO	1541	1558	médico de familia	casos_clinicos_profesiones207.ann
+T5	SANITARIO	1872	1889	médico de familia	casos_clinicos_profesiones207.ann
+T1	PACIENTE	125	136	ama de casa	casos_clinicos_profesiones208.ann
+T2	PACIENTE	4999	5010	ama de casa	casos_clinicos_profesiones208.ann
+T3	PACIENTE	7535	7546	ama de casa	casos_clinicos_profesiones208.ann
+T4	PACIENTE	240	263	auxiliar administrativo	casos_clinicos_profesiones208.ann
+T5	PACIENTE	1265	1288	auxiliar administrativo	casos_clinicos_profesiones208.ann
+T6	SANITARIO	3291	3297	médico	casos_clinicos_profesiones208.ann
+T7	SANITARIO	2977	2994	médico de familia	casos_clinicos_profesiones208.ann
+T11	SANITARIO	507	517	psiquiatra	casos_clinicos_profesiones208.ann
+T12	PACIENTE	3970	3981	trabajadora	casos_clinicos_profesiones208.ann
+T13	PACIENTE	146	155	despedida	casos_clinicos_profesiones208.ann
+T8	PACIENTE	4132	4149	dejar de trabajar	casos_clinicos_profesiones208.ann
+T9	PACIENTE	70	103	Tiene estudios de graduado social	casos_clinicos_profesiones208.ann
+T1	SANITARIO	2247	2272	especialista de digestivo	casos_clinicos_profesiones209.ann
+T2	SANITARIO	2343	2355	especialista	casos_clinicos_profesiones209.ann
+T3	SANITARIO	2733	2758	especialista de digestivo	casos_clinicos_profesiones209.ann
+T5	PACIENTE	37	61	trabaja en la hostelería	casos_clinicos_profesiones209.ann
+T1	PACIENTE	31	35	juez	casos_clinicos_profesiones21.ann
+T2	PACIENTE	1723	1727	juez	casos_clinicos_profesiones21.ann
+T3	SANITARIO	100	106	médico	casos_clinicos_profesiones21.ann
+T4	SANITARIO	1114	1128	médico clínico	casos_clinicos_profesiones21.ann
+T6	FAMILIAR	1237	1247	carpintero	casos_clinicos_profesiones21.ann
+T7	FAMILIAR	1775	1784	enfermera	casos_clinicos_profesiones21.ann
+T5	PACIENTE	4082	4111	Comenzó a trabajar nuevamente	casos_clinicos_profesiones21.ann
+T8	PACIENTE	4162	4188	retomó su trabajo completo	casos_clinicos_profesiones21.ann
+T9	PACIENTE	1624	1658	estudió abogacía en la universidad	casos_clinicos_profesiones21.ann
+T1	SANITARIO	121	127	médico	casos_clinicos_profesiones210.ann
+T2	SANITARIO	344	351	urólogo	casos_clinicos_profesiones210.ann
+T3	SANITARIO	563	570	urólogo	casos_clinicos_profesiones210.ann
+T1	SANITARIO	2293	2303	cardiólogo	casos_clinicos_profesiones211.ann
+T4	SANITARIO	2391	2418	medico de atención primaria	casos_clinicos_profesiones211.ann
+T5	SANITARIO	2129	2146	medico de familia	casos_clinicos_profesiones211.ann
+T6	SANITARIO	2423	2450	médico de atención primaria	casos_clinicos_profesiones211.ann
+T1	SANITARIO	126	143	médico de familia	casos_clinicos_profesiones212.ann
+T1	SANITARIO	258	275	médico de familia	casos_clinicos_profesiones213.ann
+T2	SANITARIO	1823	1838	fisioterapeutas	casos_clinicos_profesiones213.ann
+T1	SANITARIO	479	488	neumólogo	casos_clinicos_profesiones214.ann
+T1	PACIENTE	44	51	bombero	casos_clinicos_profesiones215.ann
+T1	SANITARIO	248	265	médico de familia	casos_clinicos_profesiones216.ann
+T1	PACIENTE	57	65	matarife	casos_clinicos_profesiones217.ann
+T1	SANITARIO	376	403	equipo de atención primaria	casos_clinicos_profesiones218.ann
+T3	PACIENTE	79	115	personal de servicios aeroportuarios	casos_clinicos_profesiones218.ann
+T4	SANITARIO	405	408	EAP	casos_clinicos_profesiones218.ann
+T2	SANITARIO	5056	5059	EAP	casos_clinicos_profesiones218.ann
+T1	SANITARIO	489	499	enfermeras	casos_clinicos_profesiones22.ann
+T2	SANITARIO	2278	2288	enfermeras	casos_clinicos_profesiones22.ann
+T3	SANITARIO	397	404	médicos	casos_clinicos_profesiones22.ann
+T4	SANITARIO	2268	2275	médicos	casos_clinicos_profesiones22.ann
+T5	PACIENTE	15	32	obrero de fábrica	casos_clinicos_profesiones22.ann
+T6	OTROS	2365	2389	compañeros de la fábrica	casos_clinicos_profesiones22.ann
+T1	SANITARIO	349	355	médico	casos_clinicos_profesiones220.ann
+T2	SANITARIO	409	415	médico	casos_clinicos_profesiones220.ann
+T3	SANITARIO	506	512	médico	casos_clinicos_profesiones220.ann
+T4	SANITARIO	738	744	médico	casos_clinicos_profesiones220.ann
+T1	SANITARIO	267	288	médico de emergencias	casos_clinicos_profesiones221.ann
+T2	SANITARIO	346	352	médico	casos_clinicos_profesiones221.ann
+T3	SANITARIO	760	774	médico forense	casos_clinicos_profesiones221.ann
+T4	SANITARIO	114	121	médicos	casos_clinicos_profesiones221.ann
+T5	OTROS	903	910	policía	casos_clinicos_profesiones221.ann
+T1	PACIENTE	351	367	Servicio Militar	casos_clinicos_profesiones222.ann
+T2	PACIENTE	1893	1911	cuidador principal	casos_clinicos_profesiones222.ann
+T3	SANITARIO	970	983	especialistas	casos_clinicos_profesiones222.ann
+T4	SANITARIO	1833	1850	médico de familia	casos_clinicos_profesiones222.ann
+T6	PACIENTE	216	249	trabajar" en la frutería familiar	casos_clinicos_profesiones222.ann
+T7	PACIENTE	300	330	comenzó a trabajar en el campo	casos_clinicos_profesiones222.ann
+T8	PACIENTE	764	774	de prisión	casos_clinicos_profesiones222.ann
+T5	PACIENTE	271	297	Terminó estudios primarios	casos_clinicos_profesiones222.ann
+T1	PACIENTE	19	51	médico de emergencias sanitarias	casos_clinicos_profesiones223.ann
+T1	SANITARIO	204	217	especialistas	casos_clinicos_profesiones224.ann
+T2	PACIENTE	48	58	estudiante	casos_clinicos_profesiones224.ann
+T3	SANITARIO	182	195	traumatólogos	casos_clinicos_profesiones224.ann
+T2	SANITARIO	455	482	médico de atención primaria	casos_clinicos_profesiones225.ann
+T1	PACIENTE	54	65	ama de casa	casos_clinicos_profesiones226.ann
+T3	SANITARIO	759	786	médico de atención primaria	casos_clinicos_profesiones226.ann
+T1	PACIENTE	1799	1810	ama de casa	casos_clinicos_profesiones227.ann
+T3	FAMILIAR	6174	6182	cuidador	casos_clinicos_profesiones227.ann
+T4	PACIENTE	567	580	en el colegio	casos_clinicos_profesiones227.ann
+T5	PACIENTE	4913	4926	en el colegio	casos_clinicos_profesiones227.ann
+T6	PACIENTE	5888	5901	en el colegio	casos_clinicos_profesiones227.ann
+T7	PACIENTE	5797	5829	estudia 2º de Educación Infantil	casos_clinicos_profesiones227.ann
+T8	OTROS	1780	1785	jefes	casos_clinicos_profesiones227.ann
+T9	SANITARIO	83	93	psiquiatra	casos_clinicos_profesiones227.ann
+T10	OTROS	10262	10280	trabajadora social	casos_clinicos_profesiones227.ann
+T11	OTROS	8309	8327	trabajadora social	casos_clinicos_profesiones227.ann
+T12	PACIENTE	1670	1692	trabaja en una empresa	casos_clinicos_profesiones227.ann
+T13	FAMILIAR	2625	2661	trabajó en un servicio de lavandería	casos_clinicos_profesiones227.ann
+T2	SANITARIO	8069	8113	equipos de Salud Mental y Servicios Sociales	casos_clinicos_profesiones227.ann
+T1	PACIENTE	1245	1266	Abandona los estudios	casos_clinicos_profesiones228.ann
+T3	FAMILIAR	2257	2282	Pensionista por invalidez	casos_clinicos_profesiones228.ann
+T5	OTROS	390	400	compañeros	casos_clinicos_profesiones228.ann
+T6	PACIENTE	351	364	en el colegio	casos_clinicos_profesiones228.ann
+T9	OTROS	1388	1392	jefe	casos_clinicos_profesiones228.ann
+T10	FAMILIAR	2041	2074	pensionista por accidente laboral	casos_clinicos_profesiones228.ann
+T11	OTROS	1540	1547	policia	casos_clinicos_profesiones228.ann
+T12	OTROS	1643	1650	policia	casos_clinicos_profesiones228.ann
+T13	PACIENTE	118	139	Inactiva laboralmente	casos_clinicos_profesiones228.ann
+T14	PACIENTE	141	160	Percibe una pensión	casos_clinicos_profesiones228.ann
+T7	PACIENTE	1279	1319	comenzando a trabajar en una carpintería	casos_clinicos_profesiones228.ann
+T15	PACIENTE	1685	1737	trabajó durante otro año y medio en otra carpintería	casos_clinicos_profesiones228.ann
+T16	OTROS	1769	1779	encargados	casos_clinicos_profesiones228.ann
+T17	FAMILIAR	2501	2511	Estudiante	casos_clinicos_profesiones228.ann
+T6	SANITARIO	2180	2198	psicólogo infantil	casos_clinicos_profesiones229.ann
+T7	PACIENTE	669	710	Trabaja en una empresa familiar de mármol	casos_clinicos_profesiones229.ann
+T1	PACIENTE	18	44	trabaja en la construcción	casos_clinicos_profesiones232.ann
+T2	PACIENTE	444	477	trabajo físico en la construcción	casos_clinicos_profesiones232.ann
+T1	SANITARIO	387	395	cirujano	casos_clinicos_profesiones233.ann
+T1	FAMILIAR	1145	1164	trabajaba la granja	casos_clinicos_profesiones24.ann
+T2	FAMILIAR	1705	1712	maestro	casos_clinicos_profesiones24.ann
+T3	OTROS	1406	1412	músico	casos_clinicos_profesiones24.ann
+T4	OTROS	2014	2020	músico	casos_clinicos_profesiones24.ann
+T6	PACIENTE	1556	1593	Tocó la guitarra en varios conciertos	casos_clinicos_profesiones24.ann
+T7	PACIENTE	1459	1476	tocar la guitarra	casos_clinicos_profesiones24.ann
+T1	OTROS	1187	1193	espías	casos_clinicos_profesiones27.ann
+T2	FAMILIAR	1653	1682	tenían un pequeño restaurante	casos_clinicos_profesiones27.ann
+T3	PACIENTE	1771	1781	intérprete	casos_clinicos_profesiones27.ann
+T4	PACIENTE	1988	2050	Se empleó en una compañía relacionada con la Comunidad Europea	casos_clinicos_profesiones27.ann
+T5	FAMILIAR	2063	2137	encontró trabajo en una compañía internacional dedicada a las traducciones	casos_clinicos_profesiones27.ann
+T6	OTROS	336	346	compañeros	casos_clinicos_profesiones27.ann
+T7	SANITARIO	2644	2657	profesionales	casos_clinicos_profesiones27.ann
+T8	OTROS	1155	1159	jefe	casos_clinicos_profesiones27.ann
+T9	PACIENTE	1694	1700	alumna	casos_clinicos_profesiones27.ann
+T10	OTROS	1167	1175	criminal	casos_clinicos_profesiones27.ann
+T1	SANITARIO	2594	2600	médico	casos_clinicos_profesiones30.ann
+T2	PACIENTE	60	109	enfermera en una unidad de salud materno infantil	casos_clinicos_profesiones30.ann
+T3	FAMILIAR	1213	1246	trabajaba en una fábrica de autos	casos_clinicos_profesiones30.ann
+T4	PACIENTE	2552	2575	licencia por enfermedad	casos_clinicos_profesiones30.ann
+T1	PACIENTE	1298	1304	niñera	casos_clinicos_profesiones32.ann
+T2	FAMILIAR	1785	1815	no tener un trabajo permanente	casos_clinicos_profesiones32.ann
+T3	FAMILIAR	2086	2117	consiguió un trabajo permanente	casos_clinicos_profesiones32.ann
+T1	SANITARIO	2927	2947	médico de la familia	casos_clinicos_profesiones36.ann
+T2	PACIENTE	50	90	trabaja sin sueldo en la granja familiar	casos_clinicos_profesiones36.ann
+T3	PACIENTE	568	585	estaba estudiando	casos_clinicos_profesiones36.ann
+T4	PACIENTE	2714	2722	granjero	casos_clinicos_profesiones36.ann
+T5	PACIENTE	2794	2839	trabajó sin sueldo en la granja de la familia	casos_clinicos_profesiones36.ann
+T6	PACIENTE	2725	2741	realizó estudios	casos_clinicos_profesiones36.ann
+T7	PACIENTE	1320	1336	servicio militar	casos_clinicos_profesiones36.ann
+T8	OTROS	835	846	estudiantes	casos_clinicos_profesiones36.ann
+T9	OTROS	737	747	compañeros	casos_clinicos_profesiones36.ann
+T1	SANITARIO	418	432	médico general	casos_clinicos_profesiones38.ann
+T2	SANITARIO	907	921	médico general	casos_clinicos_profesiones38.ann
+T3	SANITARIO	1926	1932	médico	casos_clinicos_profesiones38.ann
+T4	SANITARIO	2656	2662	médico	casos_clinicos_profesiones38.ann
+T5	PACIENTE	18	29	ama de casa	casos_clinicos_profesiones38.ann
+T6	FAMILIAR	55	63	vendedor	casos_clinicos_profesiones38.ann
+T7	SANITARIO	1072	1081	neurólogo	casos_clinicos_profesiones38.ann
+T8	SANITARIO	1201	1210	neurólogo	casos_clinicos_profesiones38.ann
+T9	SANITARIO	2104	2114	psiquiatra	casos_clinicos_profesiones38.ann
+T10	FAMILIAR	3076	3092	empleado público	casos_clinicos_profesiones38.ann
+T11	FAMILIAR	3109	3119	secretaria	casos_clinicos_profesiones38.ann
+T13	FAMILIAR	3304	3312	vendedor	casos_clinicos_profesiones38.ann
+T1	PACIENTE	31	49	mecánico de coches	casos_clinicos_profesiones57.ann
+T1	PACIENTE	92	103	esteticista	casos_clinicos_profesiones65.ann
+T1	PACIENTE	47	86	profesional de la estética y la belleza	casos_clinicos_profesiones67.ann
+T2	PACIENTE	311	340	baja por incapacidad temporal	casos_clinicos_profesiones7.ann
+T3	PACIENTE	432	484	Trabaja desde hace 20 años en una fábrica de calzado	casos_clinicos_profesiones7.ann
+T4	PACIENTE	911	921	trabajador	casos_clinicos_profesiones7.ann
+T1	OTROS	1034	1044	trabajador	casos_clinicos_profesiones7.ann
+T5	PACIENTE	689	731	Puesto de trabajo: vulcanizado de la suela	casos_clinicos_profesiones7.ann
+T1	SANITARIO	41	68	médico de atención primaria	casos_clinicos_profesiones71.ann
+T1	PACIENTE	11	22	ama de casa	casos_clinicos_profesiones76.ann
+T1	PACIENTE	21	30	jardinero	casos_clinicos_profesiones77.ann
+T1	PACIENTE	882	933	Trabaja en el servicio de limpieza del ayuntamiento	casos_clinicos_profesiones95.ann
+T2	PACIENTE	533	548	en un internado	casos_clinicos_profesiones95.ann
+T3	PACIENTE	784	827	no consigue terminar los estudios primarios	casos_clinicos_profesiones95.ann
+T4	PACIENTE	1221	1231	Minusvalía	casos_clinicos_profesiones95.ann
+T1	PACIENTE	72	102	Médico residente de nefrología	cc_covid45.ann
+T2	SANITARIO	203	213	odontólogo	cc_odontologia32.ann
+T1	PACIENTE	10	21	Ama de casa	cc_onco1033.ann
+T3	PACIENTE	61	68	química	cc_onco1121.ann
+T2	PACIENTE	102	131	Trabajador de la construcción	cc_onco1193.ann
+T1	SANITARIO	278	281	MAP	cc_onco1193.ann
+T1	PACIENTE	67	88	chófer de ambulancias	cc_onco145.ann
+T1	SANITARIO	387	398	oftalmólogo	cc_onco1486.ann
+T2	SANITARIO	218	229	dermatólogo	cc_onco1559.ann
+T2	SANITARIO	748	775	médico de atención primaria	cc_onco1574.ann
+T1	PACIENTE	564	587	auxiliar administrativo	cc_onco1574.ann
+T2	SANITARIO	130	157	médico de Atención Primaria	cc_onco1872.ann
+T2	PACIENTE	160	167	abogado	cc_onco521.ann
+T1	PACIENTE	131	154	con vida laboral activa	cc_onco521.ann
+T2	SANITARIO	583	601	médico de cabecera	cc_onco611.ann
+T1	PACIENTE	45	68	con vida laboral activa	cc_onco611.ann
+T2	PACIENTE	288	307	trabaja en el campo	cc_onco627.ann
+T3	PACIENTE	322	351	trabajó en una fábrica de pan	cc_onco627.ann
+T1	PACIENTE	30	42	electricista	cc_onco718.ann
+T1	SANITARIO	3592	3604	investigador	cc_onco777.ann
+T2	SANITARIO	392	419	médico de Atención Primaria	cc_onco777.ann
+T4	PACIENTE	144	150	pintor	cc_onco782.ann
+T5	PACIENTE	164	172	jubilado	cc_onco782.ann
+T1	SANITARIO	453	480	médico de Atención Primaria	cc_onco825.ann
+T2	PACIENTE	286	310	Trabaja en la hostelería	cc_onco825.ann
+T1	SANITARIO	376	393	médico de familia	cc_onco828.ann
+T3	PACIENTE	181	189	mecánico	cc_onco828.ann
+T4	SANITARIO	2826	2834	patóloga	cc_onco828.ann
+T2	SANITARIO	1648	1657	radiólogo	cc_onco828.ann
+T1	PACIENTE	99	106	albañil	cc_onco923.ann
+T1	SANITARIO	449	476	médico de Atención Primaria	cc_onco981.ann
+T2	PACIENTE	230	238	jubilado	cc_onco981.ann
+T3	PACIENTE	256	288	había trabajado en el aeropuerto	cc_onco981.ann
+T1	SANITARIO	94	102	foniatra	cc_otorrinolaringologia76.ann
+T1	PACIENTE	56	73	enfermera general	cc_reuma14.ann
+T1	SANITARIO	188	194	médico	cc_reuma3.ann
+T1	PACIENTE	33	43	estudiante	cc_reuma35.ann
+T2	PACIENTE	73	86	Transportista	cc_reuma55.ann
+T1	PACIENTE	74	83	comercial	cc_reuma56.ann
+T1	SANITARIO	721	727	médico	cc_reuma58.ann
+T5	PACIENTE	96	128	Trabaja en una empresa de casino	cc_reuma58.ann
+T2	SANITARIO	3261	3269	logopeda	cc_reuma58.ann
+T1	PACIENTE	59	67	Ganadero	cc_reuma60.ann
+T1	PACIENTE	42	78	dedicado desde hace 45 años al campo	cc_reuma8.ann
+T2	PACIENTE	42	93	dedicado desde hace 45 años al campo y la alfarería	cc_reuma8.ann
