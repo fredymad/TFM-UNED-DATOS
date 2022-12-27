@@ -1,10 +1,12 @@
 # Se carga el directorio de trabajo
-setwd("/Users/alfredomadrid/Desktop/TFM/Corpus convertido/Comprobacion overlapp")
+setwd("~/Desktop/TFM/Código/Estadisticas y overlap/Meddoprof")
 
 # Se cargan las librerias necesarias
 library(dplyr)
+
 # Se lee el archivo
-task1train <- read.table(file = "Meddoprof/task1combinadotrainann.txt", sep = "\t", col.names =  c("Tag", "Entity", "start", "end", "freetext", "document"))
+task1train <- read.table(file = "task1combinadotrainann.txt", sep = "\t", col.names =  c("Tag", "Entity", "start", "end", "freetext", "document"))
+
 # Se localizan los overlap
 data <- task1train %>%
   #select(document, start, end) %>%
