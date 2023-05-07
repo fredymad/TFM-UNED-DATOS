@@ -15,3 +15,7 @@ ConversorBRATIOB.ipynb: code to transform the .ann annotations into a suitable f
 EstadisticasMOD.ipynb: code that computes statistical measures to obtain insights from the MOD corpus, such as the distribution of entities; the minimum, maximum, average and total number of characters, tokens, entities and sentences per dataset. An equivalent code is built to obtain the MEDDOPROF corpus statistics EstadisticasMEDDOPROF.ipynb.
 
 ModeloXXX.ipynb: main document for training the transformers models, postprocessing and evaluation.
+
+EvaluationLib.ipynb: code to evaluate the best-performing model with scikit-learn, seqeval and nervaluate libraries.
+
+ErrorInspection.R: code to study the tokens misclassified by the model.
